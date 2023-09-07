@@ -1,5 +1,31 @@
 {
   "spider": "./jar/fm.jar;md5;4FE0A8F0284727298F73E3FF9FC4C9AB",
+    "lives": [
+    {
+      "name": "初秋语•综合",
+      "type": 0,
+      "url": "./list.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Ray•综合",
+      "type": 0,
+      "url": "https://xhdwc.tk/tvlive.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "俊于•综合",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
