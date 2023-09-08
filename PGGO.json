@@ -162,9 +162,42 @@
       "changeable": 1,
       "timeout": 30
     },
-    {"key":"drpy_js_极影网p","name":"极影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingwp.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-    {"key":"drpy_js_MP4US","name":"MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-    {"key":"drpy_js_电影港","name":"电影港[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+    {
+      "key":"drpy_js_极影网p",
+      "name":"极影网[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/jiyingwp.js",
+      "playerType":"1", 
+      "searchable":1, 
+      "quickSearch":1, 
+      "changeable":1, 
+      "timeout":30
+    },
+    {
+      "key":"drpy_js_MP4US",
+      "name":"MP4电影[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/mp4us.js",
+      "playerType":"1", 
+      "searchable":1, 
+      "quickSearch":1, 
+      "changeable":1, 
+      "timeout":30
+    },
+    {
+      "key":"drpy_js_电影港",
+      "name":"电影港[js]",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/dygang.js",
+      "playerType":"1", 
+      "searchable":1, 
+      "quickSearch":1, 
+      "changeable":1, 
+      "timeout":30
+    },
     {
       "key": "drpy_js_美剧迷p",
       "name": "美剧迷[js]",
