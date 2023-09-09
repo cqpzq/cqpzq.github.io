@@ -10,6 +10,14 @@
     }
   ],
   "sites": [
+      {
+      "key": "wogg",
+      "name": "影视 | 玩偶哥哥[cat]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/wogg_open.js",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "timeout": 30
+    },
     {
       "key": "czzy",
       "name": "厂长[cat]",
