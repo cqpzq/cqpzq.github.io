@@ -39,6 +39,17 @@
       "name": "素白白[cat]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/subaibai_open.js"
+    },
+    {
+      "key": "lf_js_p2p",
+      "name": "p2p[lf]"",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_p2p2_min.js",
+      "timeout": 30
     }
   ],
   "rules": [
