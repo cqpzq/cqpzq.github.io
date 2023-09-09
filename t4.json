@@ -38,6 +38,15 @@
       "filterable": 1
     },
     {
+      "key": "影探cli",
+      "name": "影探(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_YT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "bbcli",
       "name": "b站(cli)",
       "type": 4,
