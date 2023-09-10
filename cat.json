@@ -21,6 +21,11 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js"
     },
     {
+      "key":"libvio",
+      "name":"libvio",
+      "type":3,
+      "api":"./open/libvio_open.js"},
+    {
       "key": "czzy",
       "name": "厂长[cat]",
       "type": 3,
