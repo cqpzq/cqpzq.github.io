@@ -24,7 +24,8 @@
       "key":"libvio",
       "name":"libvio[cat]",
       "type":3,
-      "api":"./open/libvio_open.js"},
+      "api":"./open/libvio_open.js"
+    },
     {
       "key": "czzy",
       "name": "厂长[cat]",
