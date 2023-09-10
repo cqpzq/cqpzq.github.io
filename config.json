@@ -130,6 +130,22 @@
       "changeable": 0
     },
     {
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
