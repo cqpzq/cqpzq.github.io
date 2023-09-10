@@ -43,7 +43,7 @@
     },
     {
       "key": "PanSou",
-      "name": "盘搜┃搜索",
+      "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
