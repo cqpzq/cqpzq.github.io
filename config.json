@@ -4,7 +4,7 @@
   "sites": [
       {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣推荐[js]",
+      "name": "豆瓣",
       "type": 3,
       "api": "./lib/drpy1.min.js",
       "ext": "./js/豆瓣.js",
