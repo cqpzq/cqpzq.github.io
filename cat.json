@@ -22,7 +22,7 @@
     },
     {
       "key":"libvio",
-      "name":"libvio",
+      "name":"libvio[cat]",
       "type":3,
       "api":"./open/libvio_open.js"},
     {
