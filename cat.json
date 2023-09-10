@@ -24,37 +24,37 @@
       "key": "czzy",
       "name": "厂长[cat]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/czzy_open.js"
+      "api": "./open/czzy_open.js"
     },
     {
       "key": "kkys",
       "name": "快看[cat]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/kkys_open.js"
+      "api": "./open/kkys_open.js"
     },
     {
       "key": "ngys",
       "name": "南瓜[cat]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ng_open.js"
+      "api": "./open/ng_open.js"
     },
     {
       "key": "kunyu77",
       "name": "七七[cat]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/kunyu77_open.js"
+      "api": "./open/kunyu77_open.js"
     },
     {
       "key": "subaibai",
       "name": "素白白[cat]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/subaibai_open.js"
+      "api": "./open/subaibai_open.js"
     },
     {
       "key": "sharenice",
       "name": "短视频",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/cqpzq/gao/master/js/sharenice_open.js"
+      "api": "./open/sharenice_open.js"
     },
     {
       "key": "mybili",
@@ -64,13 +64,13 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/cqpzq/gao/master/js/mybili_open.js"
+      "api": "./open/mybili_open.js"
     },
     {
       "key": "kuqimv",
       "name": "MV | 酷奇",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/cqpzq/gao/master/js/kuqimv_open.js"
+      "api": "./open/kuqimv_open.js"
     },
     {
       "key": "lf_js_p2p",
