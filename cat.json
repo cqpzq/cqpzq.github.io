@@ -63,34 +63,6 @@
       "api": "./open/subaibai_open.js"
     },
     {
-      "key":"哈喽",
-      "name":"哈喽[cat]",
-      "type":3,
-      "api":"./open/AppYsV2.js",
-      "ext":"http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key":"酷酷",
-      "name":"酷酷[cat]",
-      "type":3,
-      "api":"./open/AppYsV2.js",
-      "ext": "http://cms.realdou.cn:35264/api.php/app/"
-    },
-    {
-      "key":"北极狐",
-      "name":"北极狐[cat]"
-      ,"type":3,
-      "api":"./open/AppYsV2.js",
-      "ext":"https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key":"迷你库",
-      "name":"迷你库[cat]",
-      "type":3,
-      "api":"./open/AppYsV2.js",
-      "ext":"http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
       "key": "sharenice",
       "name": "短视频",
       "type": 3,
@@ -105,12 +77,6 @@
         "ratio": 1.597
       },
       "api": "./open/mybili_open.js"
-    },
-    {
-      "key": "kuqimv",
-      "name": "MV | 酷奇",
-      "type": 3,
-      "api": "./open/kuqimv_open.js"
     },
     {
       "key": "lf_js_p2p",
