@@ -77,56 +77,6 @@
       "ext": "http://cms.realdou.cn:35264/api.php/app/"
     },
     {
-      "key": "beijihu",
-      "name": "极狐[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "kuk",
-      "name": "天堂[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "http://dytt996.com/api.php/app/"
-    },
-    {
-      "key": "kku",
-      "name": "酷影[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "kuu",
-      "name": "酷客[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key": "sukan",
-      "name": "速看[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://sk100.tv/api.php/app/"
-    },
-    {
-      "key": "midi",
-      "name": "明帝[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://ys.md214.cn/api.php/app/"
-    },
-    {
-      "key": "qtw",
-      "name": "彩虹[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-
-    {
       "key": "sharenice",
       "name": "短视频",
       "type": 3,
