@@ -154,17 +154,6 @@
       "timeout": 30
     },
     {
-      "key": "lf_js_ikanbot",
-      "name": "爱看机器人[lf]",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/lf_ikanbot_min.js",
-      "timeout": 30
-    },
-    {
       "key": "push_agent",
       "name": "推送l[f]",
       "type": 3,
