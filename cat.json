@@ -21,16 +21,22 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key":"libvio",
-      "name":"libvio[cat]",
-      "type":3,
-      "api":"./open/libvio_open.js"
+      "key": "kunyu77",
+      "name": "七七[cat]",
+      "type": 3,
+      "api": "./open/kunyu77_open.js"
     },
     {
       "key": "czzy",
       "name": "厂长[cat]",
       "type": 3,
       "api": "./open/czzy_open.js"
+    },
+    {
+      "key": "ngys",
+      "name": "南瓜[cat]",
+      "type": 3,
+      "api": "./open/ng_open.js"
     },
     {
       "key": "zxzj",
@@ -45,22 +51,16 @@
       "api": "./open/kkys_open.js"
     },
     {
-      "key": "ngys",
-      "name": "南瓜[cat]",
-      "type": 3,
-      "api": "./open/ng_open.js"
-    },
-    {
-      "key": "kunyu77",
-      "name": "七七[cat]",
-      "type": 3,
-      "api": "./open/kunyu77_open.js"
-    },
-    {
       "key": "subaibai",
       "name": "素白白[cat]",
       "type": 3,
       "api": "./open/subaibai_open.js"
+    },
+    {
+      "key":"libvio",
+      "name":"libvio[cat]",
+      "type":3,
+      "api":"./open/libvio_open.js"
     },
     {
       "key": "aidi",
