@@ -203,7 +203,7 @@
     },
     {
       "key": "push_agent",
-      "name": "推送l[f]",
+      "name": "推送[lf]",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
