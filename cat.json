@@ -21,6 +21,13 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
+      "key":"wogg_open",
+      "name":"玩偶",
+      "type":3,
+      "api":"./open/wogg_open.js",
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+    },
+    {
       "key": "kunyu77",
       "name": "七七[cat]",
       "type": 3,
