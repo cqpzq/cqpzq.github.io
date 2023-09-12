@@ -62,6 +62,27 @@
       "type":3,
       "api":"./open/libvio_open.js"
     },
+   {
+      "key": "哈喽",
+      "name": "哈喽[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+      "key": "1080dyw",
+      "name": "视界[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://www.1080dyw.cc/api.php/v1.vod"
+    },
+    {
+      "key": "miniku",
+      "name": "迷你[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
     {
       "key": "aidi",
       "name": "爱迪[cat]",
@@ -70,11 +91,88 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
+      "key": "yaya",
+      "name": "鸭鸭[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
       "key": "kuku",
       "name": "酷酷[cat]",
       "type": 3,
       "api": "./open/AppYsV2.js",
       "ext": "http://cms.realdou.cn:35264/api.php/app/"
+    },
+    {
+      "key": "beijihu",
+      "name": "极狐[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "kuk",
+      "name": "天堂[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://dytt996.com/api.php/app/"
+    },
+    {
+      "key": "kku",
+      "name": "酷影[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "ruidou",
+      "name": "锐豆[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://ys.realdou.cn:2683/api.php/app/"
+    },
+    {
+      "key": "mayi",
+      "name": "蚂蚁[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://wushutvcms.byzz.top/api.php/app/"
+    },
+    {
+      "key": "kuu",
+      "name": "酷客[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "sukan",
+      "name": "速看[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://sk100.tv/api.php/app/"
+    },
+    {
+      "key": "midi",
+      "name": "明帝[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "https://ys.md214.cn/api.php/app/"
+    },
+    {
+      "key": "dadou",
+      "name": "大豆[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://www.dadou.cm/api.php/app/"
+    },
+    {
+      "key": "qtw",
+      "name": "彩虹[cat]",
+      "type": 3,
+      "api": "./open/AppYsV2.js",
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {
       "key": "sharenice",
