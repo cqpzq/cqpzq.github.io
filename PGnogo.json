@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fm.nogo.jar;md5;E2FE217C83E8FC27153EC703DCA9C326",
+  "spider": "./jar/fm.nogo.jar;md5;4526099CCF4BBFAB2F317B6D203097D6",
   "lives": [
     {
       "name": "Ray•综合",
@@ -314,6 +314,26 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/funletu.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "drpy_js_MP4吧",
+      "name": "MP4吧[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/97tvs.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "drpy_js_meow",
+      "name": "meow[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/meow.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
