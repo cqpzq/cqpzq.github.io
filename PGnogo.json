@@ -339,6 +339,61 @@
       "timeout": 30
     },
     {
+      "key": "csp_DiDuan",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "$$$socks5://192.168.1.9:4592"
+    },
+    {
+      "key": "csp_陌陌",
+      "name": "陌陌",
+      "type": 3,
+      "api": "csp_MmYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "$$$socks5://192.168.1.9:4592"
+    },
+    {
+      "key": "csp_Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_JavDb",
+      "name":"JavDb",
+      "type":3,
+      "api":"csp_JavDb",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "timeout":60,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "ext":"$$$socks5://192.168.101.1:1080"
+    },
+    {
+      "key":"csp_JavBus",
+      "name":"JavBus",
+      "type":3,
+      "api":"csp_JavBus",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "timeout":60,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "ext":"$$$socks5://192.168.101.1:1080"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
