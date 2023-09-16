@@ -109,6 +109,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
+    }，
+    {
+      "key": "csp_Nmys",
+      "name": "农民(sp)",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
     },
     {
       "key": "探探",
