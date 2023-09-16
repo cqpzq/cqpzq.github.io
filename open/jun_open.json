@@ -66,8 +66,13 @@
       "filterable": 1,
       "playerType": 2,
       "viewType": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": {
-        "type": "抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#抖音#动物#山歌#黄梅戏#软件教程#平面设计教学#考公考证#Windows#中国女团#韩国女团#日本女团#磁力#18岁#电影解说#电视剧解说",
+        "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
     },
