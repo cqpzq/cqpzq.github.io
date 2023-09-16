@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/玩偶哥哥.json"
+      "ext": "./xyq/XYQHiker/玩偶哥哥.json"
     },
     {
       "key": "云盘搜索",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/云盘搜索.json"
+      "ext": "./xyq/XYQHiker/云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/DOVX搜索.json"
+      "ext": "./xyq/XYQHiker/DOVX搜索.json"
     },
     {
       "key": "UpYun",
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/橘子盘搜.json"
+      "ext": "./xyq/XYQHiker/橘子盘搜.json"
     },
     {
       "key": "我的小站",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/我的小站.json"
+      "ext": "./xyq/XYQHiker/我的小站.json"
     },
     {
       "key": "云盘资源分享",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/云盘资源分享.json"
+      "ext": "./xyq/XYQHiker/云盘资源分享.json"
     },
     {
       "key": "土拨鼠搜索",
@@ -101,7 +101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/土拨鼠搜索.json"
+      "ext": "./xyq/XYQHiker/土拨鼠搜索.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -111,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/豆豆飞搜索.json"
+      "ext": "./xyq/XYQHiker/豆豆飞搜索.json"
     },
     {
       "key": "阿里云盘网",
@@ -121,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/阿里云盘网.json"
+      "ext": "./xyq/XYQHiker/阿里云盘网.json"
     },
     {
       "key": "云盘分享社",
@@ -131,7 +131,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQBiu/云盘分享社.json"
+      "ext": "./xyq/XYQBiu/云盘分享社.json"
     },
     {
       "key": "Gitcafe",
