@@ -12,7 +12,7 @@
   "sites": [
       {
         "key":"drpy_js_豆瓣",
-        "name":"豆瓣推荐[js]",
+        "name":"豆瓣",
         "type":3,
         "api":"https://xhdwc.tk/lib/drpy1.min.js",
         "ext":"https://xhdwc.tk/js/drpy.js",
