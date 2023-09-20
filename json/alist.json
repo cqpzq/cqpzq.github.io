@@ -3,7 +3,7 @@
   "drives": [
     {
       "name": "小雅",
-      "server": "http://124.70.181.110:5678",
+      "server": "http://alist.xiaoya.pro",
       "search": false
     },
     {
@@ -21,10 +21,6 @@
     {
       "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
-    },
-    {
-      "name": "姬路白雪",
-      "server": "https://pan.jlbx.xyz"
     },
     {
       "name": "梓澪",
