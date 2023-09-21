@@ -24,7 +24,7 @@
     },
     {
       "key": "南瓜影视",
-      "name": "南瓜",
+      "name": "南瓜影视",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "哔滴",
+      "name": "哔滴影视",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -45,27 +45,26 @@
       "jar":"./jar/jar/spider.jar"
     },
     {
-      "key": "米酷视频",
-      "name": "米酷",
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
       "type": 3,
-      "api": "csp_DDMJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://43.248.129.116:6688",
-      "jar":"./jar/jar/spider.jar"
-    },
-    {
-      "key": "sliu_spider",
-      "name": "石榴",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-       "filterable": 1,
+      "filterable": 1,
       "playerType": 2,
-       "quickSearch": 1,
+      "quickSearch": 1,
       "searchable": 1,
       "ext": "",
       "jar":"./jar/jar/spider.jar"
+    },
+    {
+      "key": "迪迪",
+      "name": "迪迪",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://22222.yiyingys.asia/api.php/app/"
     },
     {
       "key": "Czsapp",
