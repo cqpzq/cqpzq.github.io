@@ -57,7 +57,7 @@
     },
     {
       "key": "sliu_spider",
-      "name": "石榴电影",
+      "name": "石榴",
       "api": "csp_ShiLiuDY",
       "type": 3,
        "filterable": 1,
