@@ -66,16 +66,6 @@
       "searchable": 1,
       "ext": "",
       "jar":"./jar/jar/spider.jar"
-    }，
-    {
-      "key": "迪迪",
-      "name": "迪迪",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://22222.yiyingys.asia/api.php/app/"
     },
     {
       "key": "Czsapp",
