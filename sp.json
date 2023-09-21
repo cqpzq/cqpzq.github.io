@@ -22,40 +22,40 @@
       "changeable": 1,
       "jar":"./jar/fm.nogo.jar"
     },
-        {
-            "key": "南瓜影视",
-            "name": "南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "",
-          "jar":"./jar/jar/spider.jar"
-        },
-            {
-            "key": "Bdys_spider",
-            "name": "哔滴影视",
-            "api": "csp_Bdys01",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "",
-              "jar":"./jar/jar/spider.jar"
-        },
-            {
-            "key": "Lezhu_spider",
-            "name": "乐猪影视",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "",
-              "jar":"./jar/jar/spider.jar"
-        },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
+      "key": "Bdys_spider",
+      "name": "哔滴影视",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+      "jar":"./jar/jar/spider.jar"
+    },
     {
       "key": "迪迪",
       "name": "迪迪",
