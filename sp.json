@@ -68,6 +68,18 @@
       "jar":"./jar/jar/spider.jar"
     },
     {
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
       "key": "Czsapp",
       "name": "厂长",
       "type": 3,
