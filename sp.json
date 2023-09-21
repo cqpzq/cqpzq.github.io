@@ -162,7 +162,7 @@
     },
     {
       "key": "DiDuan",
-      "name": "⏮低端",
+      "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -180,13 +180,13 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "农民┃",
+      "name": "农民",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+      "ext": ./json/nmys.json"
     },
     {
       "key": "Cokemv",
