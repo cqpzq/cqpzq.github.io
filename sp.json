@@ -69,7 +69,7 @@
     },
     {
       "key": "Lezhu_spider",
-      "name": "乐猪影视",
+      "name": "乐猪",
       "api": "csp_Lezhu",
       "type": 3,
       "filterable": 1,
