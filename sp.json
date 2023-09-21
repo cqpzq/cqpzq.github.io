@@ -19,7 +19,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":".jar/fm.nogo.jar"
     },
 
     {
