@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": ./json/nmys.json"
+       "ext": ./json/nmys.json"
     },
     {
       "key": "Cokemv",
