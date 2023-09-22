@@ -122,17 +122,6 @@
       "categories": ["连续剧","电影","动漫","综艺"]
     },
     {
-        "key": "影院",
-        "name": "蓝光"，
-       "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
       "key": "率率",
       "name": "率率",
       "type": 1,
