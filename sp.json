@@ -283,7 +283,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "明星MV",
+      "name": "MV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "style": {
