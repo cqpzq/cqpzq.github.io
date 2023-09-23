@@ -121,6 +121,17 @@
       "jar":"./jar/jar/spider.jar"
     },
     {
+      "key": "YQK_spider",
+      "name": "一起[sp]",
+      "api": "csp_YQKAPP",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://api-aws.11ty.top",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
       "key": "Czsapp",
       "name": "厂长[sp]",
       "type": 3,
