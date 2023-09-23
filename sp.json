@@ -218,16 +218,6 @@
       "ext": "vip.lyyytv.cn"
     },
     {
-      "key": "奇奇",
-      "name": "奇奇",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },
-    {
       "key": "哈喽",
       "name": "哈喽",
       "type": 3,
