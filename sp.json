@@ -53,6 +53,17 @@
       "jar":"./jar/jar/spider.jar"
     },
     {
+      "key": "剧圈视频",
+      "name": "剧圈",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://211.101.233.143:7788",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
       "key": "蚂蚁视频",
       "name": "蚂蚁",
       "type": 3,
