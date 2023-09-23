@@ -318,7 +318,8 @@
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "索尼",
@@ -326,7 +327,8 @@
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "快帆",
@@ -334,7 +336,8 @@
       "type": 1,
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "量子",
@@ -342,7 +345,8 @@
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "MV_vod",
