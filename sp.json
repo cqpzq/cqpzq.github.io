@@ -228,16 +228,6 @@
       "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
     {
-      "key": "明帝",
-      "name": "明帝",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://ys.md214.cn/api.php/app/"
-    },
-    {
       "key": "哈喽",
       "name": "哈喽",
       "type": 3,
