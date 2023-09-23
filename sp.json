@@ -42,6 +42,17 @@
       "jar":"./jar/fm.nogo.jar"
     },
     {
+      "key": "Mayiys",
+      "name": "蚂蚁",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar":"./jar/fm.nogo.jar"
+    },
+    {
       "key": "米酷视频",
       "name": "米酷",
       "type": 3,
@@ -107,16 +118,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "蚂蚁",
-      "name": "蚂蚁",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://rzys.xyz"
     },
     {
       "key": "Xinsj",
