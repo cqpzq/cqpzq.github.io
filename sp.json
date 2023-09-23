@@ -153,34 +153,6 @@
       "categories": ["连续剧","电影","动漫","综艺"]
     },
     {
-      "key": "率率",
-      "name": "率率",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "剧情片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺"
-      ]
-    },
-    {
       "key": "Auete",
       "name": "奥特",
       "type": 3,
@@ -228,16 +200,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
-    },
-    {
-      "key": "哈喽",
-      "name": "哈喽",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
       "key": "DiDuan",
