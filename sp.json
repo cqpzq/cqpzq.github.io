@@ -288,6 +288,51 @@
       "changeable": 0
     },
     {
+      "key": "suonizy",
+      "name": "索尼(采集)",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "categories": ["电影","连续剧","动漫","综艺"]
+    },
+    {
+      "key": "jisu",
+      "name": "极速(采集)",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "categories": ["电影","连续剧","动漫","综艺"]
+    },
+    {
+      "key": "liangzi",
+      "name": "量子(采集)",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json",
+      "categories": ["电影","连续剧","动漫","综艺"]
+    },
+    {
+      "key": "feifan",
+      "name": "非凡(采集)",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json",
+      "categories": ["电影","连续剧","动漫","综艺"]
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风(采集)",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "http://app.bfzyapi.com/api.php/provide/vod/at/json",
+      "categories": ["电影","连续剧","动漫","综艺"]
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
