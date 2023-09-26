@@ -21,14 +21,13 @@
       "filterable": 1
     },
     {
-      "key": "新6V",
-      "name": "新6V[磁]",
+      "key": "毛驴",
+      "name": "毛驴[sp]",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_Maolv",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "changeable": 1
     },
     {
       "key": "Maolv",
