@@ -22,7 +22,7 @@
     },
     {
       "key":"wogg_open",
-      "name":"玩偶[cat]"，
+      "name": "玩偶[cat]"，
       "type":3,
       "api":"./open/wogg_open.js",
       "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
