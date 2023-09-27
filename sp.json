@@ -30,17 +30,6 @@
       "changeable": 1
     },
     {
-      "key": "Maolv",
-      "name": "毛驴[sp]",
-      "type": 3,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar":"./jar/fm.nogo.jar"
-    },
-    {
       "key": "米酷视频",
       "name": "米酷[sp]",
       "type": 3,
