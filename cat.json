@@ -40,6 +40,18 @@
       "api": "./open/czzy_open.js"
     },
     {
+      "key": "czzy2",
+      "name": "厂长2",
+      "type": 3,
+      "api": "czzy2_open.js"
+    },
+    {
+      "key": "czzy3",
+      "name": "厂长3",
+      "type": 3,
+      "api": "czzy3_open.js"
+    },
+    {
       "key": "ngys",
       "name": "南瓜[cat]",
       "type": 3,
