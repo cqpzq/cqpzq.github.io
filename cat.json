@@ -58,6 +58,12 @@
       "api": "./open/kkys_open.js"
     },
     {
+      "key":"ikanbot",
+      "name":"爱看[cat]",
+      "type":3,
+      "api":"./cat/js/ikanbot.js"
+    },
+    {
       "key": "subaibai",
       "name": "素白白[cat]",
       "type": 3,
