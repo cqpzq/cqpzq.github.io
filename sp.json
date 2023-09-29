@@ -276,6 +276,26 @@
       "changeable": 0
     },
     {
+      "key": "明帝",
+      "name": "明帝[app]",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://ys.md214.cn/api.php/app/"
+    },
+    {
+      "key": "酷酷",
+      "name": "酷酷[app]",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cms.realdou.cn:35264/api.php/app/"
+    },
+    {
       "key": "suonizy",
       "name": "索尼(采集)",
       "type": 1,
