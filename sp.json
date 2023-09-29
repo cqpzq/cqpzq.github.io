@@ -12,6 +12,18 @@
       "filterable": 0
     },
     {
+      "key": "MV_vod",
+      "name": "歌曲MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "荐片cli",
       "name": "荐片[磁]",
       "type": 4,
@@ -272,18 +284,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.ysgc1.cc/"
-    },
-    {
-      "key": "MV_vod",
-      "name": "歌曲MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "鸭鸭",
