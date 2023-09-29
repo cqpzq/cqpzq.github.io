@@ -21,6 +21,16 @@
       "filterable": 1
     },
     {
+      "key": "新6V",
+      "name": "新6V[磁]",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
       "key": "毛驴",
       "name": "毛驴[sp]",
       "type": 3,
@@ -276,14 +286,14 @@
       "changeable": 0
     },
     {
-      "key": "明帝",
-      "name": "明帝[app]",
+      "key": "鸭鸭",
+      "name": "鸭鸭[app]",
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://ys.md214.cn/api.php/app/"
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
       "key": "酷酷",
