@@ -63,7 +63,7 @@
     },
     {
       "key": "追忆",
-      "name": "追忆[sp]"，
+      "name": "追忆[sp]",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
