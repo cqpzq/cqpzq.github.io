@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;9d742bf942adf729cadceba23f83ebd8",
+  "spider": "./jar/fan.jar;md5;64fa98fbba7758f483e6e82dea311f77",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -109,16 +109,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民(sp)",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/nmys.json"
     },
     {
       "key": "探探",
