@@ -224,7 +224,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "./lib/lf_p2p_min.js",
-      "ext": "18+"
+      "ext": ""
       "timeout": 30
     },
     {
