@@ -37,8 +37,7 @@
        "searchable": 1,
        "changeable": 1,
        "ext":"http://ytcms.lyyytv.cn/api.php/app/"
-    },
-     
+    }，    
     {
       "key": "五五",
       "name": "三五[cat]",
