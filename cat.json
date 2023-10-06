@@ -33,7 +33,7 @@
        "key":"ytvip",
        "name":"影探[cat]",
        "type":3,
-       "api": "./open/yt_open.js",
+       "api": "./open/YT_open.js",
        "searchable": 1,
        "changeable": 1,
        "ext":"http://ytcms.lyyytv.cn/api.php/app/"
