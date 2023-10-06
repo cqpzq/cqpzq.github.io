@@ -51,7 +51,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    //{"key": "Mino","name": "Mino[sp]","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+    {
+      "key": "Mino",
+      "name": "Mino[sp]",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+    },
     {
       "key": "追忆",
       "name": "追忆[sp]",
