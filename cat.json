@@ -1,4 +1,5 @@
 {
+   "spider": "./jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
   "lives": [
     {
       "name": "live",
@@ -26,16 +27,8 @@
       "type": 3,
       "api": "./open/yrzj_open.js",
       "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
-    },
-    {
-      "key":"ytvip",
-      "name":"影探",
-      "type":3,
-      "api":"./open/YT_open.js",
-      "ext":"http://ytcms.lyyytv.cn/api.php/app/",
-      "jar":"./jar/custom_spider.jar"
+      "changeable": 1
+
     },
     {
       "key": "五五",
