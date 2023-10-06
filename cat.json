@@ -31,7 +31,7 @@
     },
     {
       "key": "五五",
-      "name": "五五五[cat]",
+      "name": "三五[cat]",
       "type": 3,
       "api": "./555dy_open.js",
       "searchable": 1,
