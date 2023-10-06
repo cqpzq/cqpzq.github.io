@@ -36,8 +36,7 @@
       "type": 3,
       "api": "./open/555dy_open.js",
       "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "changeable": 1
     },
     {
       "key": "布雷",
