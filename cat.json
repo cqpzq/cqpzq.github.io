@@ -12,13 +12,31 @@
   "sites": [
       {
       "key": "lf_js_search",
-      "name": "搜索",
+      "name": "搜索(请使用影视最新版)",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "api": "./lib/lf_search3_min.js"
+    },
+    {
+      "key": "伊人",
+      "name": "伊人",
+      "type": 3,
+      "api": "./yrzj_open.js"
+    },
+    {
+      "key": "五五",
+      "name": "五五",
+      "type": 3,
+      "api": "./555dy_open.js"
+    },
+    {
+      "key": "布雷",
+      "name": "布雷",
+      "type": 3,
+      "api": "./bulei_open.js" 
     },
     {
       "key": "wanou",
