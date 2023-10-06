@@ -127,6 +127,17 @@
       "jar":"./jar/jar/spider.jar"
     },
     {
+      "key": "HDMOLI",
+      "name": "HDMOLI",
+      "api": "csp_HDMOLI",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "",
+      "jar":"./jar/jar/spider.jar"
+    },
+    {
       "key": "南瓜影视",
       "name": "南瓜[sp]",
       "type": 3,
