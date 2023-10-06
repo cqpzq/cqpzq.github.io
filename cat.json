@@ -24,25 +24,37 @@
       "key": "影探",
       "name": "影探",
       "type": 3,
-      "api": "./YT_open.js"
+      "api": "./YT_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "伊人",
       "name": "伊人",
       "type": 3,
-      "api": "./yrzj_open.js"
+      "api": "./yrzj_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "五五",
       "name": "五五",
       "type": 3,
-      "api": "./555dy_open.js"
+      "api": "./555dy_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "布雷",
       "name": "布雷",
       "type": 3,
-      "api": "./bulei_open.js" 
+      "api": "./bulei_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "wanou",
