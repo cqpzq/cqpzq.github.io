@@ -21,6 +21,12 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
+      "key": "影探",
+      "name": "影探",
+      "type": 3,
+      "api": "./YT_open.js"
+    },
+    {
       "key": "伊人",
       "name": "伊人",
       "type": 3,
