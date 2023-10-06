@@ -44,8 +44,7 @@
       "type": 3,
       "api": "./open/bulei_open.js",
       "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "changeable": 1
     },
     {
       "key":"yzys_open",
@@ -53,8 +52,7 @@
       "type":3,
       "api":"./open/yzys_open.js",
       "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "changeable": 1
     },
     {
       "key": "wanou",
