@@ -30,6 +30,14 @@
       "jar":"./jar/custom_spider.jar"
     },
     {
+      "key":"ytvip",
+      "name":"影探",
+      "type":3,
+      "api":"./open/YT_open.js",
+      "ext":"http://ytcms.lyyytv.cn/api.php/app/",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "五五",
       "name": "三五[cat]",
       "type": 3,
@@ -71,6 +79,12 @@
       "name": "南瓜[cat]",
       "type": 3,
       "api": "./open/ng_open.js"
+    },
+    {
+      "key":"yzys_open",
+      "name":"柚子",
+      "type":3,
+      "api":"./open/yzys_open.js"
     },
     {
       "key": "zxzj",
