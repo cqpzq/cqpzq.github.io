@@ -21,17 +21,8 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "影探",
-      "name": "影探",
-      "type": 3,
-      "api": "./YT_open.js",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
-    },
-    {
       "key": "伊人",
-      "name": "伊人",
+      "name": "伊人[cat]",
       "type": 3,
       "api": "./yrzj_open.js",
       "searchable": 1,
@@ -40,7 +31,7 @@
     },
     {
       "key": "五五",
-      "name": "五五",
+      "name": "五五五[cat]",
       "type": 3,
       "api": "./555dy_open.js",
       "searchable": 1,
@@ -49,7 +40,7 @@
     },
     {
       "key": "布雷",
-      "name": "布雷",
+      "name": "布雷[cat]",
       "type": 3,
       "api": "./bulei_open.js",
       "searchable": 1,
