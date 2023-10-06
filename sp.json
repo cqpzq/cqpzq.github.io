@@ -25,7 +25,7 @@
     },
     {
       "key": "荐片cli",
-      "name": "荐片[磁]",
+      "name": "荐片[磁]请及时清理缓存",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
@@ -34,7 +34,7 @@
     },
     {
       "key": "新6V",
-      "name": "新6V[磁]",
+      "name": "新6V[磁]请及时清理缓存",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
