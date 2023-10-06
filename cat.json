@@ -56,6 +56,15 @@
       "jar":"./jar/custom_spider.jar"
     },
     {
+      "key":"yzys_open",
+      "name":"柚子",
+      "type":3,
+      "api":"./open/yzys_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "wanou",
       "name": "玩偶[cat]",
       "type": 3,
