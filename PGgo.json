@@ -1,5 +1,6 @@
 {
-  "spider": "./jar/fm.jar;md5;BDD6EA018F428C52EEA3710108EFA5D2",
+  //"spider": "./jar/fm.jar;md5;BDD6EA018F428C52EEA3710108EFA5D2",
+  "spider": "./jar/fm.nogo.jar",
     "lives": [
         {
             "name": "tvlive",
