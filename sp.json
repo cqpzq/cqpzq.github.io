@@ -53,7 +53,7 @@
     },
     {
       "key": "Mino",
-      "name": "Mino[sp]",
+      "name": "Mino[app]",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "追忆",
-      "name": "追忆[sp]",
+      "name": "追忆[app]",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
@@ -73,13 +73,31 @@
     },
     {
       "key": "橘子",
-      "name": "橘子[sp]",
+      "name": "橘子[app]",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+    },
+    {
+      "key": "伊人",
+      "name": "伊人[app]",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+3/"
+    },
+    {
+      "key": "布雷",
+      "name": "布雷[app]",
+      "type": 3,
+      "api": "csp_AppMao",
+      "playerType": 2,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/"
     },
     {
       "key": "米酷视频",
@@ -328,7 +346,7 @@
     },
     {
       "key": "鸭鸭",
-      "name": "鸭鸭[app]",
+      "name": "鸭鸭[v2]",
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
@@ -338,7 +356,7 @@
     },
     {
       "key": "酷酷",
-      "name": "酷酷[app]",
+      "name": "酷酷[v2]",
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
