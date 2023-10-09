@@ -1,10 +1,9 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
-   {
+    {
       "name": "小雅",
-      "server": "http://116.235.118.43:5678",
-      "search": false
+      "server": "http://alist.xiaoya.pro"
     },
     {
       "name": "觸光",
@@ -29,7 +28,8 @@
     {
       "name": "範本",
       "server": "https://one.fongmi.com",
-      "hidden": true,
+      "search": true,
+      "hidden": false,
       "login": {
         "username": "fongmi",
         "password": "fongmi"
