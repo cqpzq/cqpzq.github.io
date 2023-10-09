@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fm.jar;md5;d866ad07bd44fda8a459dc8fc4b6e1dd",
+  "spider": "./jar/fm.jar;md5;3C58B8E5C94B96F836AFBC784006D641",
     "lives": [
         {
             "name": "tvlive",
@@ -31,7 +31,17 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.wogg.xyz/",
       "timeout": 30
     },
-  
+    {
+      "key":"Wobg"
+      ，"name":"表哥",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$http://www.wogg.xyz/",
+      "timeout": 30
+    },
     {
       "key": "Gitcafe",
       "name": "纸条",
