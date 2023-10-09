@@ -32,8 +32,8 @@
       "timeout": 30
     },
     {
-      "key":"Wobg"
-      ，"name":"表哥",
+      "key":"Wobg"，
+      "name":"表哥",
       "type":3,
       "api":"csp_Wobg",
       "searchable": 1,
