@@ -79,12 +79,6 @@
       "api": "./open/ng_open.js"
     },
     {
-      "key":"yzys_open",
-      "name":"柚子",
-      "type":3,
-      "api":"./open/yzys_open.js"
-    },
-    {
       "key": "kuku",
       "name": "酷酷[cat]",
       "type": 3,
