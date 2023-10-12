@@ -73,11 +73,16 @@
      "api": "./open/subaibai_open.js"
     },
     {
-      "key": "yaya",
-      "name": "鸭鸭[cat]",
+      "key": "ngys",
+      "name": "南瓜[cat]",
       "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+      "api": "./open/ng_open.js"
+    },
+    {
+      "key":"yzys_open",
+      "name":"柚子",
+      "type":3,
+      "api":"./open/yzys_open.js"
     },
     {
       "key": "kuku",
@@ -85,13 +90,6 @@
       "type": 3,
       "api": "./open/AppYsV2.js",
       "ext": "http://cms.realdou.cn:35264/api.php/app/"
-    },
-    {
-      "key": "beijihu",
-      "name": "极狐[cat]",
-      "type": 3,
-      "api": "./open/AppYsV2.js",
-      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "bbcli",
