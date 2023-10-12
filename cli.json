@@ -10,7 +10,7 @@
   "sites": [
     {
      "key": "lf_js_search",
-     "name": "搜索",
+     "name": "搜索(lf)",
      "type": 3,
      "searchable": 0,
      "changeable": 1,
