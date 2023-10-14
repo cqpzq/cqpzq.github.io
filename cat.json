@@ -21,39 +21,6 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "伊人",
-      "name": "伊人[cat]",
-      "type": 3,
-      "api": "./open/yrzj_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-       "key":"ytvip",
-       "name":"影探[cat]",
-       "type":3,
-       "api": "./open/YT_open.js",
-       "searchable": 1,
-       "changeable": 1,
-       "ext":"http://ytcms.lyyytv.cn/api.php/app/"
-    },
-    {
-      "key": "五五",
-      "name": "三五[cat]",
-      "type": 3,
-      "api": "./open/555dy_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "布雷",
-      "name": "布雷[cat]",
-      "type": 3,
-      "api": "./open/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key":"yzys_open",
       "name":"柚子[cat]",
       "type":3,
