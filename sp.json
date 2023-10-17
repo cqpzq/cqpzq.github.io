@@ -65,7 +65,7 @@
       "key": "追忆",
       "name": "追忆[app]",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
