@@ -229,6 +229,132 @@
       },
       "api": "./open/mybili_open.js"
     },
+        {
+      "key": "xinlang",
+      "name": "新浪[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
+    },
+    {
+      "key": "bdzy",
+      "name": "百度[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
+    },
+    {
+      "key": "bfzy",
+      "name": "影视 | 暴风",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "394tv",
+      "name": "39[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://www.394tv.com/api.php/provide/vod/"
+    },
+    {
+      "key": "languang",
+      "name": "蓝光[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "http://www.zzrhgg.com/api.php/provide/vod/"
+    },
+    {
+      "key": "lehuo",
+      "name": "乐活[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+    },
+    {
+      "key": "piaoling",
+      "name": "影视 | 飘零",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://p2100.net/api.php/provide/vod/"
+    },
+    {
+      "key": "yingtu",
+      "name": "影图[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+    },
+    {
+      "key": "feifan",
+      "name": "非凡[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+    },
+    {
+      "key": "feisu",
+      "name": "飞速[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+    },
+    {
+      "key": "guangsu",
+      "name": "光速[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+    },
+    {
+      "key": "jinying",
+      "name": "金鹰[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
+    },
+    {
+      "key": "jisu",
+      "name": "极速[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
+    },
+    {
+      "key": "kuaiche",
+      "name": "快车[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+    },
+    {
+      "key": "liangzi",
+      "name": "量子[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+    },
+    {
+      "key": "qihu",
+      "name": "奇虎[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/"
+    },
+    {
+      "key": "guangsuapi",
+      "name": "光速[cat]",
+      "type": 3,
+      "api": "./cat/js/caiji.js",
+      "ext": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+    }
     {
       "key": "lf_js_p2p",
       "name": "P2P_js[lf]",
