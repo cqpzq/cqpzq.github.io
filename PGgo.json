@@ -94,17 +94,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io$$$1"
     },
     {
-      "key": "csp_WoBG",
-      "name":"表哥",
-      "type":3,
-      "api":"csp_Wobg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
-      "timeout": 30
-    },
-    {
       "key": "Gitcafe",
       "name": "纸条",
       "type": 3,
@@ -112,21 +101,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     //{"key": "小紙條","name": "小紙條","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.json","timeout": 30},
-    {
-      "key": "csp_Hdhive",
-      "name": "影巢",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
-      "timeout": 30
-    },
     {
       "key": "七夜",
       "name": "七夜",
@@ -134,7 +112,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
@@ -144,7 +122,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
@@ -154,7 +132,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
@@ -162,7 +140,7 @@
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
@@ -170,7 +148,7 @@
       "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
@@ -178,7 +156,7 @@
       "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
     {
