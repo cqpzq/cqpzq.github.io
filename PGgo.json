@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/pgfm.jar;md5;A69361BA8572EB9DD7F8C1CCCF1F056B",
+  "spider": "./jar/pgfm.jar;md5;23461d9553474037f5ca776274003c90",
     "lives": [
         {
             "name": "tvlive",
@@ -19,16 +19,6 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
-    },
-    {
-      "key": "Wogg",
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -84,14 +74,26 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1"
     },
     {
-      "key": "Wobg",
-      "name": "玩偶表哥",
+      "key": "csp_WoGG",
+      "name": "哥哥",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://api.wogg.xyz/$$$1",
+      "timeout": 30
+    },
+    {
+      "key": "csp_Wobg",
+      "name": "表哥",
       "type": 3,
       "api": "csp_Wobg",
+      "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io$$$1"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io$$$1",
+      "timeout": 30
     },
     {
       "key": "Gitcafe",
