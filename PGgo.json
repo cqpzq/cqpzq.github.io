@@ -106,7 +106,17 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$null$$$1",
       "timeout": 30
     },
-    //{"key": "小紙條","name": "小紙條","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.json","timeout": 30},
+    {
+      "key": "小紙條",
+      "name": "小紙條",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/token.json$$$null$$$1",
+      "timeout": 30
+    },
     {
       "key": "七夜",
       "name": "七夜",
