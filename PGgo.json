@@ -41,17 +41,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1"
     },
     {
-      "key": "4KHDRSP",
-      "name": "4KHDRSP",
-      "type": 3,
-      "api": "csp_FourKHDR",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json$$$./lib/4khdr.txt$$$1"
-    },
-    {
       "key": "校长影视",
       "name": "校长影视",
       "type": 3,
