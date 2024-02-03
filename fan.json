@@ -1,16 +1,25 @@
 {
-  "spider": "../jar/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
+  "spider": "./jar/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
       {
         "key": "lf_js_search",
-        "name": "搜索",
+        "name": "豆瓣搜索",
         "type": 3,
         "searchable": 0,
         "changeable": 1,
         "quickSearch": 0,
         "filterable": 1,
         "api": "./lib/lf_search3_min.js"
+    },
+    {
+      "key": "豆豆",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "玩偶哥哥",
