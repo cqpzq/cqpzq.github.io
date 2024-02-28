@@ -1,5 +1,5 @@
 {
-"spider":"./jar/okpng.txt;md5;9324a002bec86a9b0eb163e0b3f6079a",
+"spider":"./jar/okpng.txt;md5;793a740f07f09bddfcafb57eb192e2ed",
 "lives":[{"name":"live","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
   		{
