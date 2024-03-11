@@ -33,6 +33,16 @@
             "ext": true
     },
     {
+      "key": "SP33",
+      "name": "360",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "玩偶哥哥",
       "name": "玩偶",
       "type": 3,
@@ -259,7 +269,7 @@
     }
 
   ],
-  "parses": [
+   "parses": [
     {
       "name": "聚合",
       "type": 3,
@@ -295,8 +305,7 @@
           "xinvip",
           "XAL",
           "qiqi",
-          "XALS",
-          "YuMi-vip"
+          "XALS"
         ]
       }
     },
@@ -397,7 +406,9 @@
       ],
       "regex": [
         "18.4",
-        "15.1666"
+        "15.1666",
+        "16.5333",
+        "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
       ]
     },
     {
@@ -406,7 +417,10 @@
         "suonizy"
       ],
       "regex": [
-        "16.333333",
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
         "15.266667"
       ]
     },
@@ -442,12 +456,15 @@
       "name": "ff",
       "hosts": [
         "vip.ffzy",
-        "hd.ffzy"
+        "hd.ffzy",
+        "ffzy"
       ],
       "regex": [
         "25.0666",
         "25.08",
-        "20.52"
+        "20.52",
+        "25.1",
+        "25.1999"
       ]
     },
     {
@@ -493,7 +510,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
