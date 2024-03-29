@@ -279,6 +279,7 @@
 			"name": "索尼┃资源",
 			"type": 1,
 			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"categories": [
 				"动作片",
 				"喜剧片",
