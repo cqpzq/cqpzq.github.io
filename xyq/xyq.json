@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;f154ba973ace6562b2e82815952b089e",
+{"spider":"./spider.jar;md5;2db1bd07c42c25796659053e9c370577",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"云盘｜首页","type":3,"api":"csp_Douban","searchable":0},
@@ -13,7 +13,7 @@
 	{"key":"云搜弹幕","name":"弹幕｜云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"盘搜弹幕","name":"弹幕｜盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"易搜弹幕","name":"弹幕｜易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=5f91a828-2198-4630-ac41-da5a217c01d7"},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
-	{"key":"云盘弹幕","name":"弹幕｜云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+	{"key":"云盘弹幕","name":"弹幕｜云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"}，
 	{"key":"小纸条弹幕","name":"弹幕｜小纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"天天开心","name":"云盘｜开心","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/天天开心.json"},
