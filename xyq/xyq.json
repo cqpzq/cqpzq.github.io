@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;b6ab71d680d2ebfd4a9e7f93ef464e48",
+  "spider": "./spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -31,7 +31,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "我的阿里",
@@ -47,7 +47,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "阿里合集",
@@ -64,7 +64,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "玩偶弹幕",
@@ -79,7 +79,7 @@
         "site": "https://www.wogg.xyz",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "搜索弹幕",
@@ -93,7 +93,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "七夜弹幕",
@@ -107,7 +107,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "云云弹幕",
@@ -121,7 +121,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "云搜弹幕",
@@ -135,7 +135,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "盘搜弹幕",
@@ -149,7 +149,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "易搜弹幕",
@@ -164,7 +164,7 @@
         "danmu": true,
         "cookie": "satoken=5f91a828-2198-4630-ac41-da5a217c01d7"
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "云盘弹幕",
@@ -178,7 +178,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "小纸条弹幕",
@@ -192,7 +192,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "玩偶哥哥",
@@ -378,7 +378,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克开心弹幕",
@@ -394,7 +394,7 @@
         "site": "http://m.kxys.site:3328",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克土豆弹幕",
@@ -410,7 +410,7 @@
         "site": "https://tudou.lvdoui.top",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克多多弹幕",
@@ -426,7 +426,7 @@
         "site": "https://tv.yydsys.top",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克团长弹幕",
@@ -441,7 +441,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克盘搜弹幕",
@@ -455,7 +455,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克影搜弹幕",
@@ -470,7 +470,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克趣盘搜弹幕",
@@ -485,7 +485,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
     {
       "key": "夸克爱盘搜弹幕",
@@ -500,7 +500,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"
+      "jar": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     }
   ],
   "doh": [
@@ -553,7 +553,7 @@
       "type": 0,
       "url": "./live.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}"
     }
   ],
   "ijk": [
