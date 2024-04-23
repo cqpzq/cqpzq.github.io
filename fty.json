@@ -158,6 +158,17 @@
       "ext": "https://www.80yy3.com/"
     },
     {
+      "key": "农民",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
