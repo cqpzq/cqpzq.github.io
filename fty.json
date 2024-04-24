@@ -176,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/98影视.json"
     },
     {
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/七新影视.json"
     },
     {
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/星辰影视.json"
     },
 
@@ -210,7 +210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/骚火影视.json"
     },
     {
@@ -221,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/蛋蛋影视.json"
     },
     {
@@ -232,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/奇优影视.json"
     },
 
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/黑狐影视.json"
     },
 
