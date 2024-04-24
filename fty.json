@@ -1,3 +1,4 @@
+//以下资源都是网络收集各位大佬的.只是方便个人使用
 {
   "spider": "./jar/fan.txt;md5;4af14dca6964a737a88b982cb8b20055",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -200,18 +201,6 @@
       "filterable": 1,
       "jar": "./jar/spider.jar",
       "ext": "./json/XBPQ/星辰影视.json"
-    },
-
-    {
-      "key": "csp_骚火",
-      "name": "骚火影视[XBPQ]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/spider.jar",
-      "ext": "./json/XBPQ/骚火影视.json"
     },
     {
       "key": "csp_蛋蛋",
