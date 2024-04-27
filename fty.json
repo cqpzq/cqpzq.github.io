@@ -22,30 +22,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    		{
-			"key":"XBPQ_电影先生",
-			"name": "电影先生[XBPQ]",
-			"jar": "./lib/XBPQ.jar",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-				"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-				"搜索数组": "<div class=\"module-item-pic\">&&</div>",
-				"图片": "src=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索副标题": ">&&</a>",
-				"线路数组": "data-dropdown-value=&&</div>",
-				"线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-				"播放数组": "<div class=\"scroll-content\">&&</div>",
-				"播放标题": "<span>&&</span>",
-				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-			}
-		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
-			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
-		},
     {
       "key": "csp_xBPQ_玖八",
       "name": "玖八影视[XBPQ]",
