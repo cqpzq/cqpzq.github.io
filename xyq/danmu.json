@@ -19,7 +19,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
+      "jar": "./spider.jar;md5;6b0d0be123195c911e371f21e8e9cab0"
     },
     {
       "key": "配置中心",
