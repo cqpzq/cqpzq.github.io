@@ -1,5 +1,5 @@
 {
-  "spider": "./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9",
+  "spider": "./danmu.jar;md5;738408aedbbe61be8d551befbe829d05",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -8,7 +8,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./spider.jar;md5;6b0d0be123195c911e371f21e8e9cab0"
+      "jar": "./spider.jar;md5;5af0c33307937551929d536684a26ea4"
     },
     {
       "key": "阿里云盘登录",
@@ -20,7 +20,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "./spider.jar;md5;6b0d0be123195c911e371f21e8e9cab0"
+      "jar": "./spider.jar;md5;5af0c33307937551929d536684a26ea4"
     },
     {
       "key": "配置中心",
@@ -166,6 +166,20 @@
         "danmu": true
       }
 
+    },
+    {
+      "key": "小纸条弹幕",
+      "name": "弹幕｜小纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      },
+      "jar": "./danmu.jar;md5;738408aedbbe61be8d551befbe829d05"
     },
       {
       "key": "南瓜弹幕",
