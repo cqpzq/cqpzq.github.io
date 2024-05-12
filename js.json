@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider": "./jar/js.jar",
+  "spider": "./jar/js.jar;md5;f91ba72d2516a995da86b7321440c653",
   "lives": [
     {
       "name": "直播",
@@ -71,33 +71,61 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
-        {
+    {
       "key": "drpy_js_LIBVIO",
       "name": "LIBVIO",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/LIBVIO.js"
     },
-        {
+    {
       "key": "drpy_js_voflix",
       "name": "voflix",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/voflix.js"
     },
-        {
+    {
       "key": "drpy_js_ddys_",
       "name": "低端",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/ddys_d.js"
     },
-        {
+    {
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/南瓜影视.js"
+    },
+    {
+      "key": "drpy_js_蛋蛋剧",
+      "name": "蛋蛋",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/蛋蛋剧.js"
+    },
+    {
+      "key": "drpy_js_凌云影视",
+      "name": "凌云",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/凌云影视.js"
+    },
+    {
+      "key": "drpy_js_我爱跟剧",
+      "name": "我爱",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/我爱跟剧.js"
+    },
+    {
+      "key": "drpy_js_TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/TVB云播.js"
     },
     {
       "key": "csp_Kuaikan",
