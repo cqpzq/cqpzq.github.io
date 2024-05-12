@@ -71,6 +71,34 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
+        {
+      "key": "drpy_js_LIBVIO",
+      "name": "voflix",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/LIBVIO.js"
+    },
+        {
+      "key": "drpy_js_voflix",
+      "name": "voflix",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/voflix.js"
+    },
+        {
+      "key": "drpy_js_ddys_",
+      "name": "低端",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/ddys_d.js"
+    },
+        {
+      "key": "drpy_js_南瓜影视",
+      "name": "南瓜",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/南瓜影视.js"
+    },
     {
       "key": "csp_Kuaikan",
       "name": "快看",
