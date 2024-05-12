@@ -38,28 +38,28 @@
       "key": "drpy_js_奇珍异兽",
       "name": "爱",
       "type": 3,
-      "api": "./drpy_js/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优",
       "type": 3,
-      "api": "./drpy_js/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾",
       "type": 3,
-      "api": "./drpy_js/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒",
       "type": 3,
-      "api": "./drpy_js/libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
     {
