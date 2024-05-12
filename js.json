@@ -72,20 +72,6 @@
       "ext": "./js/百忙无果.js"
     },
     {
-      "key": "drpy_js_LIBVIO",
-      "name": "LIBVIO",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/LIBVIO.js"
-    },
-    {
-      "key": "drpy_js_voflix",
-      "name": "voflix",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/voflix.js"
-    },
-    {
       "key": "drpy_js_ddys_",
       "name": "低端",
       "type": 3,
@@ -121,11 +107,34 @@
       "ext": "./js/我爱跟剧.js"
     },
     {
+      "key": "csp_Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "drpy_js_TVB云播",
       "name": "TVB云播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/TVB云播.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "LIBVIO",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_voflix",
+      "name": "voflix",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/voflix.js"
     },
     {
       "key": "csp_Kuaikan",
