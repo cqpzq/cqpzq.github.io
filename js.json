@@ -24,7 +24,13 @@
     }
   ],
   "sites": [
-    //{"key": "drpy_js_豆瓣","name": "搜索","type": 3,"api": "./drpy_js/libs/drpy2.min.js","ext": "./drpy_js/js/drpy.js"},
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "搜索",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/drpy.js"
+    },
       {
       "key": "360_spider",
       "name": "360",
@@ -61,6 +67,13 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/菜狗.js"
     },
     {
       "key": "csp_Kuaikan",
