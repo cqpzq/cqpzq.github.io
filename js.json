@@ -63,6 +63,15 @@
       "ext": "./js/百忙无果.js"
     },
     {
+      "key": "csp_Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
