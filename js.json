@@ -25,11 +25,14 @@
   ],
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "搜索",
+      "key": "lf_js_search",
+      "name": "豆瓣[LF]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/drpy.js"
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "api": "./lib/lf_search3_min.js"
     },
       {
       "key": "360_spider",
@@ -67,13 +70,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "搜",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/菜狗.js"
     },
     {
       "key": "csp_Kuaikan",
