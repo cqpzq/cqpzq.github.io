@@ -475,26 +475,8 @@
       "name": "free",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
-    },
-         "name": "1",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
-    },
-    {
-      "name": "2",
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-    {
-      "name": "3",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
-    },
-    {
-      "name": "4",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     }
+
   ],
   "flags": [
     "youku",
