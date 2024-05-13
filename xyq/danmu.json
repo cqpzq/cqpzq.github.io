@@ -234,18 +234,6 @@
       }
     },
     {
-      "key": "三六零弹幕",
-      "name": "三六零弹幕",
-      "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "机器人弹幕",
       "name": "机器人弹幕",
       "type": 3,
