@@ -241,7 +241,7 @@
 		},
     {
       "key": "csp_xBPQ_玖八",
-      "name": "玖八影视[XBPQ]",
+      "name": "玖八",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -252,7 +252,7 @@
     },
     {
       "key": "csp_七新",
-      "name": "七新影视[XBPQ]",
+      "name": "七新",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "csp_星辰",
-      "name": "星辰影视[XBPQ]",
+      "name": "星辰",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -274,7 +274,7 @@
     },
     {
       "key": "csp_蛋蛋",
-      "name": "蛋蛋影视[XBPQ]",
+      "name": "蛋蛋",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
