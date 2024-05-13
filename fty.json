@@ -24,7 +24,7 @@
     },
     {
       "key": "csp_xBPQ_玖八",
-      "name": "玖八影视[XBPQ]",
+      "name": "玖八",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
     {
       "key": "csp_七新",
-      "name": "七新影视[XBPQ]",
+      "name": "七新",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "csp_星辰",
-      "name": "星辰影视[XBPQ]",
+      "name": "星辰",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -57,7 +57,7 @@
     },
     {
       "key": "csp_蛋蛋",
-      "name": "蛋蛋影视[XBPQ]",
+      "name": "蛋蛋",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "csp_xBPQ_奇优",
-      "name": "奇优影视[XBPQ]",
+      "name": "奇优",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -80,7 +80,7 @@
 
     {
       "key": "csp_黑狐",
-      "name": "黑狐影视[XBPQ]",
+      "name": "黑狐",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "原创",
-      "name": "原创[SP]",
+      "name": "原创",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -101,7 +101,7 @@
     },
     {
       "key": "苹果",
-      "name": "苹果[SP]",
+      "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
     {
       "key": "七七",
-      "name": "七七[SP]",
+      "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "timeout": 15,
@@ -120,7 +120,7 @@
     },
     {
       "key": "酷看",
-      "name": "酷看[SP]",
+      "name": "酷看",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -130,7 +130,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜[SP]",
+      "name": "南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -141,7 +141,7 @@
     },
     {
       "key": "低端",
-      "name": "低端[SP]",
+      "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -151,7 +151,7 @@
     },
     {
       "key": "比特",
-      "name": "比特[SP]",
+      "name": "比特",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "zxzj",
-      "name": "在线[SP]",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -171,7 +171,7 @@
     },
     {
       "key": "Lib",
-      "name": "立播[SP]",
+      "name": "立播",
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -182,7 +182,7 @@
     },
     {
       "key": "Auete",
-      "name": "奥特[SP]",
+      "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -193,7 +193,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长[SP]",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "timeout": 15,
@@ -205,7 +205,7 @@
     },
     {
       "key": "白嫖",
-      "name": "白飘[SP]",
+      "name": "白飘",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -216,7 +216,7 @@
     },
     {
       "key": "毛驴",
-      "name": "毛驴[SP]",
+      "name": "毛驴",
       "type": 3,
       "api": "csp_MLYS",
       "timeout": 15,
@@ -227,7 +227,7 @@
     },
     {
       "key": "视觉",
-      "name": "视觉[SP]",
+      "name": "视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -237,19 +237,8 @@
       "ext": "https://www.80yy3.com/"
     },
     {
-      "key": "农民",
-      "name": "农民[SP]",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/nmys.json"
-    },
-    {
       "key": "玩偶",
-      "name": "玩偶哥哥",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
