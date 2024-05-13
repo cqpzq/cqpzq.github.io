@@ -181,9 +181,9 @@
 				"页面代理":"proxy"
 			}
 		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
-				"站名": "黑狐",
+				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
 				"数组": "class=\"stui-vodlist__box\"&&</a",
 				"图片": "data-original=\"&&\"",
@@ -239,6 +239,50 @@
 		{"key": "XBPQ_麻衣影院","name":"麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
+    {
+      "key": "csp_xBPQ_玖八",
+      "name": "玖八影视[XBPQ]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/XBPQ/98影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "七新影视[XBPQ]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/XBPQ/七新影视.json"
+    },
+    {
+      "key": "csp_星辰",
+      "name": "星辰影视[XBPQ]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/XBPQ/星辰影视.json"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "蛋蛋影视[XBPQ]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "ext": "./json/XBPQ/蛋蛋影视.json"
+    },
     {
       "key": "push_agent",
       "name": "推送",
