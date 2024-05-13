@@ -26,7 +26,7 @@
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "豆瓣[LF]",
+      "name": "豆瓣[LF]请使用新版影视",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
