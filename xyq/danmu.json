@@ -438,10 +438,10 @@
     }
   ],
  "parses": [
-        {
-            "name": "聚合",
+     {
+            "name": "Web聚合",
             "type": 3,
-            "url": "Demo"
+            "url": "Web"
         },
         {
             "name": "线路1",
