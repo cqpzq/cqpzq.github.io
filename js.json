@@ -24,7 +24,7 @@
     }
   ],
   "sites": [
-      {
+    {
       "key": "360_spider",
       "name": "360",
       "type": 3,
@@ -33,7 +33,7 @@
       "quickSearch": 1,
       "searchable": 1
     },
-   {
+    {
       "key": "lf_js_search",
       "name": "豆瓣[LF]",
       "type": 3,
@@ -44,17 +44,18 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-	    "key":"drpy_js_69美剧[V2]",
-	    "name":"影视 | 69美剧[V2]",
-	    "type":3,"api":"./lib/drpy2.min.js",
-	    "ext":"./js/69美剧[V2].js"
+      "key": "drpy_js_69美剧[V2]",
+      "name": "影视 | 69美剧[V2]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/69美剧[V2].js"
     },
     {
-	    "key":"drpy_js_爱迪[V2]",
-	    "name":"影视 | 爱迪[V2][js]",
-	    "type":3,
-	    "api":"./lib/drpy2.min.js",
-	    "ext":"./js/爱迪[V2].js"
+      "key": "drpy_js_爱迪[V2]",
+      "name": "影视 | 爱迪[V2][js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱迪[V2].js"
     },
     {
       "key": "drpy_js_网飞",
@@ -70,7 +71,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/TVB云播.js"
     },
-	      {
+    {
       "key": "drpy_js_LIBVIO",
       "name": "LIBVIO",
       "type": 3,
@@ -84,7 +85,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/voflix.js"
     },
-	      {
+    {
       "key": "drpy_js_ddys_",
       "name": "低端",
       "type": 3,
@@ -147,7 +148,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
-
     {
       "key": "csp_Kuaikan",
       "name": "快看",
@@ -268,15 +268,15 @@
       }
     },
     {
-            "name": "-jx-",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-     },
+      "name": "-jx-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
     {
       "name": "-爱豆-",
       "type": 0,
