@@ -44,20 +44,6 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "drpy_js_69美剧[V2]",
-      "name": "影视 | 69美剧[V2]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/69美剧[V2].js"
-    },
-    {
-      "key": "drpy_js_爱迪[V2]",
-      "name": "影视 | 爱迪[V2][js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱迪[V2].js"
-    },
-    {
       "key": "drpy_js_网飞",
       "name": "网飞",
       "type": 3,
@@ -119,6 +105,20 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/我爱跟剧.js"
+    },
+    {
+      "key": "drpy_js_69美剧[V2]",
+      "name": "影视 | 69美剧[V2]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/69美剧[V2].js"
+    },
+    {
+      "key": "drpy_js_爱迪[V2]",
+      "name": "影视 | 爱迪[V2][js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱迪[V2].js"
     },
     {
       "key": "drpy_js_奇珍异兽",
