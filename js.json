@@ -116,6 +116,14 @@
       "filterable": 1
     },
     {
+      "key": "saohuo",
+      "name": "骚火",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/骚火.js"
+    },
+    {
       "key": "drpy_js_69美剧[V2]",
       "name": "69美剧[V2]",
       "type": 3,
