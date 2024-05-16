@@ -107,6 +107,13 @@
       "ext": "./js/我爱跟剧.js"
     },
     {
+      "key": "drpy_js_真不卡",
+      "name": "不卡",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/真不卡.js"
+    },
+    {
       "key": "csp_Kuaikan",
       "name": "快看",
       "type": 3,
@@ -122,6 +129,14 @@
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/骚火.js"
+    },
+    {
+      "key": "追剧迷",
+      "name": "追剧迷",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/追剧迷.js"
     },
     {
       "key": "drpy_js_69美剧[V2]",
