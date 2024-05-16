@@ -1,7 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider": "./jar/custom_spider.jar;md5;2dd1047cb29daf7d351201a1cca49ae5",
-  //"spider": "./jar/js.jar;md5;f91ba72d2516a995da86b7321440c653",
+  "spider": "./jar/js.jar;md5;f91ba72d2516a995da86b7321440c653",
   "lives": [
     {
       "name": "直播",
