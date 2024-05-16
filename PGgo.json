@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pgno.jar;md5;3dad6adb38fadf33d6a1c544b95d2b4d",
+	"spider":"./jar/pgno.jar;md5;e0187a95d19f7d1e3a71945887b4869a",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -288,19 +288,6 @@
 		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
-                {
-                       "key": "csp_LIBVIO",
-                       "name": "荔波|XBPQ",
-                       "type": 3,
-                       "api": "csp_XBPQ",
-                       "jar":"./lib/XBPQ.jar",
-                       "playerType": 2,
-                       "ext": {
-                                "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-                                "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                                "线路数组": "<h3 class=\"iconfont&&</div>[不包含:视频下载#网盘]"
-                             }
-                },
 		{
 			"key": "小白",
 			"name": "🧲 4小白磁力🧲 |XBPQ",
