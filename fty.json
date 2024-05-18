@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/98影视.json"
     },
     {
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/七新影视.json"
     },
     {
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/星辰影视.json"
     },
     {
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/蛋蛋影视.json"
     },
     {
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/奇优影视.json"
     },
 
