@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/98影视.json"
     },
     {
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/七新影视.json"
     },
     {
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/星辰影视.json"
     },
     {
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/蛋蛋影视.json"
     },
     {
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/奇优影视.json"
     },
 
@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/黑狐影视.json"
     },
     {
@@ -182,18 +182,6 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "厂长",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys.top/"
-    },
-    {
       "key": "白嫖",
       "name": "白飘",
       "type": 3,
@@ -205,27 +193,41 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
-      "key": "毛驴",
-      "name": "毛驴",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "视觉",
-      "name": "视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
+            "key": "JOJO弹幕",
+            "name": "JOJO弹幕",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "ext": {
+                "danmu": true
+      }
+      },
+      {
+            "key": "一起看弹幕",
+            "name": "一起看弹幕",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "ext": {
+                "danmu": true
+        }
+        },
+        {
+            "key": "韩小圈",
+            "name": "韩小圈",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "filterable": 1
+        },
     {
       "key": "玩偶",
       "name": "玩偶",
