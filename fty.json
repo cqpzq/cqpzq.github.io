@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar";md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9"，
       "ext": "./json/XBPQ/黑狐影视.json"
     },
     {
