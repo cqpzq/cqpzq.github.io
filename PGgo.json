@@ -1,6 +1,7 @@
 {
 	//jar除去SO加速
-	"spider":"./jar/pgno.jar;md5;e0187a95d19f7d1e3a71945887b4869a",
+	//"spider":"./jar/pgno.jar;md5;e0187a95d19f7d1e3a71945887b4869a",
+	"spider":"https://pan.shangui.cc/f/6DYGTp/pgno.jar;md5;e0187a95d19f7d1e3a71945887b4869a",
 	"sites":[
 		{
 			"key": "豆瓣",
