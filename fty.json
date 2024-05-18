@@ -322,7 +322,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./xyq/danmu.jar;md5;738408aedbbe61be8d551befbe829d05"
+            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
     },
     {
       "key": "push_agent",
