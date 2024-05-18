@@ -194,7 +194,7 @@
     },
     {
             "key": "JOJO弹幕",
-            "name": "JOJO弹幕",
+            "name": "JOJO",
             "type": 3,
             "api": "csp_Jiohub",
             "searchable": 1,
@@ -207,7 +207,7 @@
       },
       {
             "key": "一起看弹幕",
-            "name": "一起看弹幕",
+            "name": "一起看",
             "type": 3,
             "api": "csp_Yqk",
             "searchable": 1,
