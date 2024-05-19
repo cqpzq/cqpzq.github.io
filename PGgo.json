@@ -218,7 +218,7 @@
 		},
 		{
                                 "key": "csp_苹果",
-                                "name": "苹果影视|XBPQ"",
+                                "name": "苹果影视|XBPQ",
                                 "type": 3,
                                 "api":"csp_XBPQ",
 			        "jar":"./lib/XBPQ.jar",
