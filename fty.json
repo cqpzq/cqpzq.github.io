@@ -1,6 +1,6 @@
 //以下资源都是网络收集各位大佬的.只是方便个人使用
 {
-  "spider": "./jar/fan.txt;md5;177584a6db7606778d53181f34310ae9",
+  "spider": "https://pan.shangui.cc/f/edKnSQ/fan.txt;md5;177584a6db7606778d53181f34310ae9",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/98影视.json"
     },
     {
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/七新影视.json"
     },
     {
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/星辰影视.json"
     },
     {
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/蛋蛋影视.json"
     },
     {
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/奇优影视.json"
     },
 
@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
+      "jar": "https://pan.shangui.cc/f/vX03Fk/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/黑狐影视.json"
     },
     {
@@ -200,7 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "jar": "https://pan.shangui.cc/f/anYYS2/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
             "ext": {
                 "danmu": true
       }
@@ -213,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "jar": "https://pan.shangui.cc/f/anYYS2/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
             "ext": {
                 "danmu": true
         }
@@ -225,7 +225,7 @@
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
+            "jar": "https://pan.shangui.cc/f/anYYS2/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
             "filterable": 1
         },
     {
