@@ -227,7 +227,7 @@
                                 "filterable": 1,
                                 "ext": "./json/XBPQ/苹果影院.json"
                 },
-		    {
+		{
                                 "key": "csp_xBPQ_奇优",
                                 "name": "奇优影视|XBPQ",
                                 "type": 3,
@@ -237,7 +237,7 @@
                                 "quickSearch": 1,
                                 "filterable": 1,
                                 "ext": "./json/XBPQ/奇优影视1.json"
-    },
+                },
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
