@@ -52,14 +52,6 @@
       "ext": "./js/畅梦影视.js"
     },
     {
-      "key": "小胡",
-      "name": "小胡",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/小胡.js",
-      "playerType": 2
-    },
-    {
       "key": "在线之家",
       "name": "在线",
       "type": 3,
@@ -84,16 +76,11 @@
       "key": "drpy_js_ddys_",
       "name": "低端",
       "type": 3,
+     "playerType": "2",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/ddys_d.js"
     },
-    {
-      "key": "小蚂蚁",
-      "name": "蚂蚁",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/小蚂蚁2.js"
-    },
+
     {
       "key": "drpy_js_voflix",
       "name": "voflix",
@@ -107,14 +94,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/南瓜影视.js"
-    },
-    {
-      "key": "奇优",
-      "name": " 奇优",
-      "type": 3,
-      "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇优.js"
     },
     {
       "key": "drpy_js_蛋蛋剧",
