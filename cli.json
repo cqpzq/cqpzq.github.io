@@ -1,34 +1,39 @@
 {
-    "lives": [
-        {
-            "name": "tvlive",
-            "type": 0,
-            //"url": "https://xhdwc.tk/tvlive.txt",
-            "url": "https://cqpzq.github.io/biu/tangs.txt",
-            "playerType": 1
-        }
-    ],
+  "lives": [
+    {
+      "name": "tvlive",
+      "type": 0,
+      "url": "https://cqpzq.github.io/biu/tangs.txt",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
-     "key": "lf_js_search",
-     "name": "搜索(lf)",
-     "type": 3,
-     "searchable": 0,
-     "changeable": 1,
-     "quickSearch": 0,
-     "filterable": 1,
-     "api": "./lib/lf_search3_min.js"
+      "key": "t4-douban",
+      "name": "影视-豆瓣(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/douban.php"
     },
     {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
+      "key": "lf_js_search",
+      "name": "搜索(lf)",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "api": "./lib/lf_search3_min.js"
+    },
+    {
+      "key": "T4-安博",
+      "name": "安博(T4)",
+      "type": 4,
+      "api": "https://tang.serv00.net/power/ub1818",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
     },
     {
       "key": "cli_gitCafe",
@@ -38,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "csp_woggcli",
@@ -48,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "ali_cli_Alii",
@@ -78,7 +83,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "bbcli",
       "name": "b站(cli)",
@@ -99,22 +103,90 @@
         "cookie": ""
       }
     },
-      {"key":"t4-douban","name":"影视-豆瓣(t4)","type":4,"api":"https://catbox.n13.club/t4/douban.php"},
-{"key":"t4-yugaopian","name":"影视-预告片(t4)","type":4,"api":"https://catbox.n13.club/t4/yugaopian.php"},
-{"key":"t4-剧圈","name":"影视-剧圈(t4)","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
-{"key":"t4-黑狐","name":"影视-黑狐(t4)","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
-{"key":"t4-jp","name":"影视-荐片(t4)","type":4,"api":"https://catbox.n13.club/t4/jianpian.php"},
-{"key":"t4-南瓜","name":"影视-南瓜(t4)","type":4,"api":"https://catbox.n13.club/t4/nangua.php"},
-{"key":"t4-极光","name":"影视-极光(t4)","type":4,"api":"https://catbox.n13.club/t4/jiguang.php"},
-{"key":"t4-caiji","name":"影视-采集(t4)","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
-{"key":"t4-wencai","name":"影视-文才(t4)","type":4,"api":"https://catbox.n13.club/t4/wencai.php"},
-{"key":"t4-xinshijue","name":"影视-新视觉(t4)","type":4,"api":"https://catbox.n13.club/t4/xinshijue.php"},
-{"key":"t4-saohuo","name":"影视-骚火(t4)","type":4,"api":"https://catbox.n13.club/t4/saohuo.php"},
-{"key":"t4-jojo","name":"影视-jojo(t4)","type":4,"api":"https://catbox.n13.club/t4/jojo.php"},
-{"key":"t4-mingri","name":"影视-明日(t4)","type":4,"api":"https://catbox.n13.club/t4/mingri.php"},
-{"key":"t4-6v","name":"磁力-6V(t4)","type":4,"api":"https://catbox.n13.club/t4/6v.php"},
-{"key":"t4-哔嘀","name":"磁力-哔嘀(t4)","type":4,"api":"https://catbox.n13.club/t4/bdys.php"},
-
+    {
+      "key": "t4-yugaopian",
+      "name": "影视-预告片(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/yugaopian.php"
+    },
+    {
+      "key": "t4-剧圈",
+      "name": "影视-剧圈(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/juquan.php"
+    },
+    {
+      "key": "t4-黑狐",
+      "name": "影视-黑狐(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/heihu.php"
+    },
+    {
+      "key": "t4-jp",
+      "name": "影视-荐片(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/jianpian.php"
+    },
+    {
+      "key": "t4-南瓜",
+      "name": "影视-南瓜(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/nangua.php"
+    },
+    {
+      "key": "t4-极光",
+      "name": "影视-极光(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/jiguang.php"
+    },
+    {
+      "key": "t4-caiji",
+      "name": "影视-采集(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/caiji.php"
+    },
+    {
+      "key": "t4-wencai",
+      "name": "影视-文才(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/wencai.php"
+    },
+    {
+      "key": "t4-xinshijue",
+      "name": "影视-新视觉(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/xinshijue.php"
+    },
+    {
+      "key": "t4-saohuo",
+      "name": "影视-骚火(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/saohuo.php"
+    },
+    {
+      "key": "t4-jojo",
+      "name": "影视-jojo(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/jojo.php"
+    },
+    {
+      "key": "t4-mingri",
+      "name": "影视-明日(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/mingri.php"
+    },
+    {
+      "key": "t4-6v",
+      "name": "磁力-6V(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/6v.php"
+    },
+    {
+      "key": "t4-哔嘀",
+      "name": "磁力-哔嘀(t4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/bdys.php"
+    },
     {
       "key": "push_agent",
       "name": "推送(cli)",
@@ -126,6 +198,5 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     }
-
   ]
 }
