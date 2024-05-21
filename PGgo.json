@@ -84,42 +84,36 @@
       "key": "t5-剧圈",
       "name": "影视-剧圈(t5)",
       "type": 4,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/juquan.php"
     },
     {
       "key": "t5-黑狐",
       "name": "影视-黑狐(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/heihu.php"
     },
     {
       "key": "t5-jp",
       "name": "影视-荐片(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/jianpian.php"
     },
     {
       "key": "t5-南瓜",
       "name": "影视-南瓜(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/nangua.php"
     },
     {
       "key": "t5-极光",
       "name": "影视-极光(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/jiguang.php"
     },
     {
       "key": "t5-caiji",
       "name": "影视-采集(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/caiji.php"
     },
     {
@@ -132,14 +126,12 @@
       "key": "t5-xinshijue",
       "name": "影视-新视觉(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/xinshijue.php"
     },
     {
       "key": "t5-saohuo",
       "name": "影视-骚火(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/saohuo.php"
     },
     {
@@ -152,7 +144,6 @@
       "key": "t5-mingri",
       "name": "影视-明日(t5)",
       "type": 4,
-	    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "api": "https://catbox.n13.club/t5/mingri.php"
     },
     {
