@@ -272,7 +272,7 @@
 			}
 		},
 		{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
-		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -281,7 +281,7 @@
 				"图片": "vod_pic\":\"&&\"",
 				"标题": "vod_name\":\"&&\"",
 				"副标题": "+vod_remarks\":\"&&\"",
-				"链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+				"链��": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
 				"搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
 				"搜索模式": "1",
 				"搜索二次截取": "list\":[&&]",
@@ -313,7 +313,7 @@
                                 "name": "苹果影视|XBPQ",
                                 "type": 3,
                                 "api":"csp_XBPQ",
-			        "jar":"./lib/XBPQ.jar",
+                                "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
                                 "searchable": 1,
                                 "quickSearch": 1,
                                 "filterable": 1,
@@ -324,7 +324,7 @@
                                 "name": "奇优影视|XBPQ",
                                 "type": 3,
                                 "api":"csp_XBPQ",
-			        "jar":"./lib/XBPQ.jar",
+		"jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
                                 "searchable": 1,
                                 "quickSearch": 1,
                                 "filterable": 1,
@@ -335,13 +335,13 @@
                                "name": "龙域｜XBPQ",
                                "type": 3,
                                "api": "csp_XBPQ",
-                                "jar":"./lib/XBPQ.jar",
+                                "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
                                "ext": {
                                        "分类url":"https://www.btep.cn/vodshow/{cateId}--------{catePg}---.html",
                                        "分类": "电影$34#电视剧$51#综艺$59#动漫$57" 
                                       }
                  },
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -378,7 +378,7 @@
 		{
 			"key":"XBPQ_电影先生",
 			"name": "电影先生|XBPQ",
-			"jar": "./lib/XBPQ.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -390,13 +390,13 @@
 				"搜索标题": "title=\"&&\"",
 				"搜索副标题": ">&&</a>",
 				"线路数组": "data-dropdown-value=&&</div>",
-				"线路标题": "<span>&&</small>[替换:<span></small>共]+集",
+				"线路标题": "<span>&&</small>[替换:<span></small>��]+集",
 				"播放数组": "<div class=\"scroll-content\">&&</div>",
 				"播放标题": "<span>&&</span>",
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 
