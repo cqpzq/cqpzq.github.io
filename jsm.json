@@ -1,8 +1,8 @@
 {
 	//"spider":"./jar/pg.jar;md5;ddaadf1040e6f14c350db8eb04a1c29b",
 	//"spider":"https://pan.shangui.cc/f/NoqAtj/pg.jar;md5;68afd9af02206fcd8227a990cf384071",
-	//"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
-	"spider":"https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vY3FwenEvY3FwenEuZ2l0aHViLmlvL3Jhdy9tYWluL2phci9wZy5qYXIifQ.lwsWMN6RCrh-RXdpxZrQRne1-Mphx0dOth0bu6T3ez0;md5;2e4e02fe19253412b3fb0b9af9d63f35",
+	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
+
 	"sites":[
 		{
 			"key": "豆瓣",
