@@ -335,6 +335,70 @@
                           }
                 },
 		{
+                                "key": "三米ys",
+                                "name": "三米|XBPQ",
+                                "type": 3,
+                                "api": "csp_XBPQ",
+                                "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+                                "ext": {
+                                "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+                                "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+                                        }
+               },
+               {
+                                "key": "jqq",
+                                "name": "剧圈圈|XBPQ",
+                                "type": 3,
+                                "api": "csp_XBPQ",
+                                 "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+                                "ext": {
+                                "分类url": "https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+                                "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"
+                                }
+                },
+		{
+                                "key": "可达影视",
+                                "name": "可达|影视",
+                                "type": 3,
+                                "playerType": 2,
+                                "playUrl": "https://kedays.org/play/?url=",
+                                "api": "csp_XBPQ",
+                                "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+                                "searchable": 1,
+                                "quickSearch": 1,
+                                "filterable": 1,
+                                "ext": {
+                                         "请求头": "User-Agent$MOBILE_UA",
+                                         "主页url": "https://kedays.org",
+                                         "首页": "120",
+                                         "起始页": "1",
+                                         "数组": "pic\">&&</li>",
+                                         "标题": "title=\"&&\"",
+                                         "图片": "data-original=\"&&\"",
+                                         "副标题": "text-overflow\">&&</p>",
+                                         "链接": "href=\"&&\"",
+                                         "简介": "pb-10*>&&</p>",
+                                         "线路数组": "data-target=\"#ewave-playlist&&</li>",
+                                         "线路标题": "可达+>&&<em>[不包含:线路1]",
+                                         "倒序": "0",
+                                         "播放数组": "ewave-playlist-content&&</ul>",
+                                         "播放列表": "<a&&/a>",
+                                         "播放标题": ">&&<",
+                                         "播放链接": "href=\"&&\"",
+                                         "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                                         "跳转解析": "默认$https://kedays.org/play/?url=",
+                                         "嗅探词": ".mp4#.m3u8#.flv",
+                                         "搜索模式": "1",
+                                         "搜索url": "/so/{wd}----------{pg}---.html"，
+                                         "搜索数组": "pic\">&&</li>",
+                                         "搜索副标题": "text-overflow\">&&</p>",
+                                         "搜索链接": "href=\"&&\"",
+                                         "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                                         "分类": "电影&剧集&综艺&动漫&少儿&短剧",
+                                         "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
+                                        }
+                },
+		{
                                 "key": "csp_苹果",
                                 "name": "苹果影视|XBPQ",
                                 "type": 3,
