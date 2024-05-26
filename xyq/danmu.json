@@ -170,7 +170,6 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "./danmu.jar;md5;738408aedbbe61be8d551befbe829d05"
     },
     {
       "key": "南瓜弹幕",
