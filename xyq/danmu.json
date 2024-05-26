@@ -1,6 +1,5 @@
 {
-  //"spider": "./danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
-  "spider": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+  "spider": "./danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -9,7 +8,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
+      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e"
     },
     {
       "key": "阿里云盘登录",
@@ -21,7 +20,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
+      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e"
     },
     {
       "key": "配置中心",
@@ -51,19 +50,19 @@
       }
     },
     {
-        "key": "阿里合集",
-        "name": "阿里｜合集",
-        "type": 3,
-        "api": "csp_AliShare",
-        "searchable": 1,
-        "changeable": 0,
-        "filterable": 0,
-        "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "./JS/alishare.txt"
-            },
-            "style": {
-                "type": "list"
+      "key": "阿里合集",
+      "name": "阿里｜合集",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "share": ""
+      },
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -170,95 +169,109 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
+      },
+      "jar": "./danmu.jar;md5;738408aedbbe61be8d551befbe829d05"
+    },
+    {
+      "key": "南瓜弹幕",
+      "name": "南瓜弹幕",
+      "type": 3,
+      "api": "csp_Nangua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "酷看弹幕",
+      "name": "酷看弹幕",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "厂长弹幕",
+      "name": "厂长弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "白嫖弹幕",
+      "name": "白嫖弹幕",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "天天弹幕",
+      "name": "天天弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "机器人弹幕",
+      "name": "机器人弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "小苹果弹幕",
+      "name": "小苹果弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "JOJO弹幕",
+      "name": "JOJO弹幕",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
       }
     },
         {
-            "key": "南瓜弹幕",
-            "name": "南瓜弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "酷看弹幕",
-            "name": "酷看｜弹幕",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "天天弹幕",
-            "name": "天天｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "一起看弹幕",
-            "name": "一起看｜弹幕",
+            "name": "一起看弹幕",
             "type": 3,
             "api": "csp_Yqk",
             "searchable": 1,
@@ -267,43 +280,35 @@
             "ext": {
                 "danmu": true
             }
-        },
-        {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
+         
         },
         {
             "key": "韩小圈",
-            "name": "韩小圈｜弹幕",
+            "name": "韩小圈",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+         
         },
         {
             "key": "无忧短剧",
-            "name": "无忧短剧｜弹幕",
+            "name": "无忧短剧",
             "type": 3,
             "api": "csp_Duanj",
             "searchable": 1,
             "changeable": 0
+           
         },
         {
             "key": "上头短剧",
-            "name": "上头短剧｜弹幕",
+            "name": "上头短剧",
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0
+          
         },
     {
       "key": "夸克玩偶弹幕",
