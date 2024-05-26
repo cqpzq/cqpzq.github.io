@@ -46,7 +46,7 @@
     },
     {
         "key": "drpy_js_黑木耳资源",
-        "name": "木耳",
+        "name": "黑木",
          "type": 3,
         "api": "./lib/drpy2.min.js",
         "ext": "./js/黑木.js"
@@ -95,6 +95,13 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/voflix.js"
     },
+    {
+        "key": "drpy_js_freeok",
+        "name": "freeok",
+         "type": 3,
+        "api": "./lib/drpy2.min.js",
+        "ext": "./js/freeok.js"
+    },  
     {
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
