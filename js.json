@@ -94,14 +94,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/voflix.js"
-    },
-    {
-        "key": "drpy_js_freeok",
-        "name": "freeok",
-         "type": 3,
-        "api": "./lib/drpy2.min.js",
-        "ext": "./js/freeok.js"
-    },  
+    }， 
     {
       "key": "drpy_js_南瓜影视",
       "name": "南瓜",
