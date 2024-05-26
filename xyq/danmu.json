@@ -9,7 +9,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./spider.jar;md5;c29d7ac6e74960e804f4fb4923ba01f8"
+      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e"
     },
     {
       "key": "阿里云盘登录",
@@ -21,7 +21,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "./spider.jar;md5;c29d7ac6e74960e804f4fb4923ba01f8"
+      "jar": "./spider.jar;md5;dfa413850c16ddd79d05c62f23cbd35e"
     },
     {
       "key": "配置中心",
