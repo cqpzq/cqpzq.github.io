@@ -222,7 +222,7 @@
                                 "name": "卫总|XBPQ",
                                 "type": 3,
                                 "api": "csp_XBPQ",
-  "                             "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+                                "jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
 			        //"jar":"https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
                                 "searchable": 1,
                                 "quickSearch": 1,
