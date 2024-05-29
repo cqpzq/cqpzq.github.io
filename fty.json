@@ -319,6 +319,20 @@
       }
     },
     {
+      "key": "米搜",
+      "name": "米搜",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
       "key": "PanSearch",
       "name": "盘Se",
       "type": 3,
