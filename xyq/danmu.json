@@ -289,10 +289,7 @@
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-               "ext": {
-                "danmu": true
-            }
+            "filterable": 1
          
         },
         {
@@ -301,10 +298,7 @@
             "type": 3,
             "api": "csp_Duanj",
             "searchable": 1,
-            "changeable": 0,
-               "ext": {
-                "danmu": true
-            }
+            "changeable": 0
            
         },
         {
@@ -313,10 +307,7 @@
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 1,
-            "changeable": 0,
-               "ext": {
-                "danmu": true
-            }
+            "changeable": 0
           
         },
     {
