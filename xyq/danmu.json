@@ -59,7 +59,7 @@
       "filterable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "share": ""
+        "share": "./JS/alishare.txt"
       },
       "style": {
         "type": "list"
@@ -75,7 +75,8 @@
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "site": "https://www.wogg.xyz",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://www.wogg.net",
         "danmu": true
       }
     },
@@ -169,8 +170,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      },
-      "jar": "./danmu.jar;md5;738408aedbbe61be8d551befbe829d05"
+      }
     },
     {
       "key": "南瓜弹幕",
