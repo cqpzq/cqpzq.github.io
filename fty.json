@@ -80,6 +80,16 @@
       "ext": "./json/XBPQ/黑狐影视.json"
     },
     {
+      "key": "酷看",
+      "name": "酷看",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "原创",
       "name": "原创",
       "type": 3,
@@ -99,14 +109,15 @@
       "changeable": 1
     },
     {
-      "key": "七七",
-      "name": "七七",
+      "key": "视觉",
+      "name": "视觉",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Xinsj",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
     },
     {
       "key": "酷看",
@@ -204,47 +215,38 @@
       "changeable": 1,
       "ext": "https://www.baipiaoys.com:9092/"
     },
-    {
-            "key": "JOJO弹幕",
-            "name": "JOJO",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
-            "ext": {
-                "danmu": true
-      }
-      },
-      {
-            "key": "一起看弹幕",
-            "name": "一起看",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
-            "ext": {
-                "danmu": true
-        }
-        },
-        {
-            "key": "韩小圈",
-            "name": "韩小圈",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./xyq/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519",
-            "filterable": 1
-        },
       {
       "key": "短剧",
       "name": "短剧",
       "type": 3,
       "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Dm84",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Ying",
+      "name": "樱花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Ysj",
+      "name": "异界",
+      "type": 3,
+      "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
