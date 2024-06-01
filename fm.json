@@ -13,15 +13,6 @@
             "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "商店",
-      "name": "商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/market.json"
-    },
-    {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
@@ -298,6 +289,15 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./json/webdav.json"
+    },
+    {
+      "key": "商店",
+      "name": "商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
     },
     {
       "key": "JustLive",
