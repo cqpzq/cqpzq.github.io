@@ -2,32 +2,26 @@
   "spider": "./jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-	    {
-            "key": "lf_js_search",
-            "name": "搜索",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "./lib/lf_search3_min.js"
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "./json/douban.json"
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
+        "key": "lf_js_search",
+        "name": "搜索",
+        "type": 3,
+        "searchable": 0,
+        "changeable": 1,
+        "quickSearch": 0,
+        "filterable": 1,
+        "api": "./lib/lf_search3_min.js"
     },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
+
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -40,9 +34,19 @@
         "filter": "./json/wogg.json"
       }
     },
+
+    {
+      "key": "新6V",
+      "name": "新6V[磁]",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout": 60
+    },
     {
       "key": "賤賤",
-      "name": "賤賤",
+      "name": "賤賤[磁]",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -50,13 +54,57 @@
       "ext": "./json/jianpian.json"
     },
     {
-      "key": "獨播",
-      "name": "獨播",
+      "key": "看球",
+      "name": "看球",
       "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "csp_Kanqiu",
       "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/duboku.json"
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "暴風",
+      "name": "暴風采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+   {
+        "key": "非凡采集",
+	"name": "非凡采集",
+	"type": 0,
+	"api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"changeable": 1,
+	"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "动漫片", "记录片", "短剧"]
+    },
+
+    {
+	"key": "量子采集",
+	"name": "量子采集",
+	"type": 1,
+	"api": "https://cj.lzcaiji.com/api.php/provide/vod/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"changeable": 1,
+	"categories": ["国产剧", "韩国剧", "欧美剧", "喜剧片", "剧情片", "爱情片", "恐怖片", "科幻片", "动漫片", "国产动漫", "大陆综艺"]
+    },
+    {
+	"key": "黑木耳源",
+	"name": "黑木采集",
+	"type": 0,
+	"api": "https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"changeable": 1,
+	"categories": ["国产剧", "大陆综艺", "国产动漫", "韩剧", "喜剧", "剧情", "爱情", "科幻", "惊悚", "悬疑", "冒险", "犯罪", "灾难", "短剧"]
     },
     {
       "key": "haiwaikan",
@@ -99,7 +147,7 @@
         "纪录片",
         "经典片"
       ]
-    },
+    }，    
     {
       "key": "996影院",
       "name": "996影院",
@@ -109,99 +157,20 @@
       "changeable": 1
     },
     {
-      "key": "短劇",
-      "name": "短劇",
+      "key": "泥巴",
+      "name": "泥巴",
       "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./json/douban.json"
-    },
-    {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "看球",
-      "name": "看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "暴風",
-      "name": "暴風",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "索尼",
-      "name": "索尼 ",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "快帆",
-      "name": "快帆",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-   {
-        "key": "非凡采集",
-	"name": "非凡采集",
-	"type": 0,
-	"api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"changeable": 1,
-	"categories": ["国产剧", "大陆综艺", "国产动漫", "韩国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "动作片", "剧情片", "动漫片", "记录片", "短剧"]
-    },
-
-    {
-	"key": "量子采集",
-	"name": "量子采集",
-	"type": 1,
-	"api": "https://cj.lzcaiji.com/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"changeable": 1,
-	"categories": ["国产剧", "韩国剧", "欧美剧", "喜剧片", "剧情片", "爱情片", "恐怖片", "科幻片", "动漫片", "国产动漫", "大陆综艺"]
-    },
-    {
-	"key": "黑木耳源",
-	"name": "黑木",
-	"type": 0,
-	"api": "https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"changeable": 1,
-	"categories": ["国产剧", "大陆综艺", "国产动漫", "韩剧", "喜剧", "剧情", "爱情", "科幻", "惊悚", "悬疑", "冒险", "犯罪", "灾难", "短剧"]
     },
     {
       "key": "櫻花",
@@ -262,6 +231,14 @@
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "短劇",
+      "name": "短劇",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
       "changeable": 0
     },
     {
