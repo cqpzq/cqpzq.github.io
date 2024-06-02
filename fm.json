@@ -1,5 +1,6 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
+  //"spider": "./jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
