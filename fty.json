@@ -1,6 +1,7 @@
 //以下资源都是网络收集各位大佬的.只是方便个人使用
 {
-  "spider": "./jar/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
+  //"spider": "./jar/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/fan.txtt;md5;e5331c586bf5835734be13338cecf00d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
