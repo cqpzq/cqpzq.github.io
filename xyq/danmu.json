@@ -1,5 +1,6 @@
 {
-  "spider": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe",
+  //"spider": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -8,7 +9,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "./spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
     },
     {
       "key": "阿里云盘登录",
@@ -20,7 +21,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "./spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
     },
     {
       "key": "配置中心",
