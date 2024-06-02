@@ -95,7 +95,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "云云弹幕",
@@ -109,7 +109,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "云搜弹幕",
@@ -123,7 +123,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "盘搜弹幕",
@@ -137,7 +137,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "易搜弹幕",
@@ -152,7 +152,7 @@
                 "danmu": true,
                 "cookie": "satoken=ba2ea3ca-bd57-41da-98dc-8d93b65eac3b"
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "云盘弹幕",
@@ -166,7 +166,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "玩偶哥哥",
