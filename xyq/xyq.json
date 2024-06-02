@@ -1,5 +1,6 @@
 {
-    "spider": "./spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+    //"spider": "./spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -31,7 +32,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "我的阿里",
@@ -47,7 +48,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "阿里合集",
@@ -64,7 +65,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "玩偶弹幕",
@@ -80,7 +81,7 @@
                 "site": "https://www.wogg.net",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "搜索弹幕",
@@ -94,7 +95,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "云云弹幕",
@@ -108,7 +109,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "云搜弹幕",
@@ -122,7 +123,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "盘搜弹幕",
@@ -136,7 +137,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+            "jar": "./spider.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
             "key": "易搜弹幕",
