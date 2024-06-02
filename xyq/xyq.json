@@ -84,6 +84,20 @@
             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
         },
         {
+            "key": "小纸条弹幕",
+            "name": "弹幕｜小纸条",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+              "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+              "danmu": true
+        },
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe"
+        },
+        {
             "key": "搜索弹幕",
             "name": "弹幕｜搜索",
             "type": 3,
