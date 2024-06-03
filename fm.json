@@ -24,6 +24,24 @@
         "filter": "./json/wogg.json"
       }
     },
+   {
+      "key": "我的阿里",
+      "name": "我的阿里",
+      "type": 3,
+      "jar": "./jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
+      "api": "csp_MyAli",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
 
     {
       "key": "新6V",
