@@ -24,25 +24,25 @@
         "filter": "./json/wogg.json"
       }
     },
-   {
-      "key": "我的阿里",
-      "name": "我的阿里",
+    {
+      "key": "阿里合集",
+      "name": "阿里合集",
       "type": 3,
-      "jar": "./jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
-      "api": "csp_MyAli",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
       "filterable": 0,
       "indexs": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
       "ext": {
-        "token": "file://TV/ali_token.txt"
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
       },
       "style": {
         "type": "list"
       },
       "timeout": 30
     },
-
     {
       "key": "新6V",
       "name": "新6V[磁]",
