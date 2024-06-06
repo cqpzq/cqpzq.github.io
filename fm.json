@@ -11,7 +11,25 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
+    {
+      "key": "阿里合集",
+      "name": "阿里合集",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;c8cf1e8b6af25ac9746efafac5d9baba",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -25,25 +43,6 @@
       }
     },
     {
-      "key": "阿里合集",
-      "name": "阿里合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "share": "file://TV/阿里集合.json"
-      },
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30
-    },
-    {
       "key": "团长",
       "name": "团长",
       "type": 3,
@@ -51,7 +50,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;c8cf1e8b6af25ac9746efafac5d9baba",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt"
@@ -66,7 +65,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
@@ -148,6 +147,17 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./json/webdav.json"
+    },
+    {
+            "key":"nm",
+	    "name":"爱看",
+	    "type":3,
+	    "api":"csp_WebNM",
+	    "jar": "https://wp.weikete.cc/down.php/9f85c74641b34ad694b2e1f6af93bc91.zip;md5;9f85c74641b34ad694b2e1f6af93bc91",
+	    "searchable":1,
+	    "quickSearch":0,
+	    "filterable":0,
+	    "ext":"https://m.wwgz.cn"
     },
     {
       "key": "360",
