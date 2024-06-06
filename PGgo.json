@@ -2,8 +2,8 @@
         //使用没有SO加速的PG包
 	//"spider":"./jar/pgno.jar;md5;e0187a95d19f7d1e3a71945887b4869a",
 	//"spider":"https://pan.shangui.cc/f/VDJNu8/pgno.jar;md5;6d0731a50155acbf6e47f41356719374",
-	//"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pgno.jar;md5;0f373704392968153ee459655599f0ac",
-	"spider":"https://raw.cachefly.998111.xyz/cqpzq/c1/main/jar/pgno.jar;md5;9d9cf8fba0e77417788920ba2dcae53f",
+	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pgno.jar;md5;fd494427271ba75122d5bd7a2453a2b7",
+	//"spider":"https://raw.cachefly.998111.xyz/cqpzq/c1/main/jar/pgno.jar;md5;9d9cf8fba0e77417788920ba2dcae53f",
 	"sites":[
 		{
 			"key": "豆瓣",
