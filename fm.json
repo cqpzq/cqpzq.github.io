@@ -44,43 +44,112 @@
       "timeout": 30
     },
     {
-      "key": "新6V",
-      "name": "新6V[磁]",
+      "key": "团长",
+      "name": "团长",
       "type": 3,
-      "api": "csp_Xb6v",
+      "api": "csp_Tzfile",
       "searchable": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "賤賤",
-      "name": "賤賤[磁]",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
+      "filterable": 1,
       "changeable": 1,
-      "ext": "./json/jianpian.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 25
     },
     {
-      "key": "看球",
-      "name": "看球",
+      "key": "土豆网盘",
+      "name": "土豆",
       "type": 3,
-      "api": "csp_Kanqiu",
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "雲搜",
+      "name": "雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "style": {
-        "type": "list"
-      }
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
-      "key": "暴風",
-      "name": "暴風采集",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 0,
+      "ext": "./json/alist.json"
     },
-{
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/webdav.json"
+    },
+    {
       "key": "360",
       "name": "360采集",
       "type": 1,
@@ -246,6 +315,43 @@
       ]
     },
     {
+      "key": "新6V",
+      "name": "新6V[磁]",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "賤賤",
+      "name": "賤賤[磁]",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/jianpian.json"
+    },
+    {
+      "key": "看球",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "暴風",
+      "name": "暴風采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
@@ -339,24 +445,6 @@
       "changeable": 0
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json"
-    },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/webdav.json"
-    },
-    {
       "key": "商店",
       "name": "商店",
       "type": 3,
@@ -372,63 +460,6 @@
       "api": "csp_JustLive",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "七夜",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "雲搜",
-      "name": "雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "紙條搜",
-      "name": "紙條搜",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜索",
-      "name": "盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "商店",
