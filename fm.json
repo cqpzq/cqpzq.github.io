@@ -152,7 +152,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba"，
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
       "ext": {
         "cookie": "file://TV/quark_cookie.txt"
       },
@@ -174,7 +174,7 @@
     },
     {
       "key": "云盘4K",
-      "name": "云盘",
+      "name": "云盘4K",
       "type": 3,
       "api": "csp_Yunpan4k",
       "searchable": 1,
