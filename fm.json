@@ -131,6 +131,78 @@
       "ext": "影視天下第一$$$test2$$$test2"
     },
     {
+      "key": "csp_QuPanSou",
+      "name": "趣盘搜",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "csp_Qkpanso",
+      "name": "夸克盘搜",
+      "type": 3,
+      "api": "csp_Qkpanso",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "csp_AiPanSou",
+      "name": "爱盘搜",
+      "type": 3,
+      "api": "csp_AiPanSou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "云盘4K",
+      "name": "云盘",
+      "type": 3,
+      "api": "csp_Yunpan4k",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "影搜",
+      "name": "影搜",
+      "type": 3,
+      "api": "csp_Yingso",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/okjpg.txt;md5;dc8cf1e8b6af25ac9746efafac5d9baba",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
       "key": "AList",
       "name": "AList",
       "type": 3,
