@@ -1,6 +1,6 @@
 {
-    "spider": "./xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
-    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+    //"spider": "./xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -9,6 +9,30 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
+        },
+        {
+          "key": "阿里云盘登录",
+          "name": "云盘｜登录",
+          "type": 3,
+          "api": "csp_AliYunPan",
+          "searchable": 0,
+          "quickSearch": 0,
+          "filterable": 0,
+          "changeable": 0,
+          "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1"
+        },
+        {
+          "key": "配置中心",
+          "name": "配置｜中心",
+          "type": 3,
+          "api": "csp_Config",
+          "searchable": 0,
+          "changeable": 0,
+          "style": {
+         "type": "rect",
+         "ratio": 1.597
+          }
         },
         {
             "key": "玩偶哥哥",
@@ -400,6 +424,36 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://v.ikanbot.com"
+        },
+       {
+            "key": "荐片",
+            "name": "磁力｜荐片",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "New6v",
+            "name": "磁力｜New6V",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
+        {
+            "key": "SeedHub",
+            "name": "磁力｜SeedHub",
+            "type": 3,
+            "api": "csp_SeedHub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "四九资源",
