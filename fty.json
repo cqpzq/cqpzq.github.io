@@ -1,7 +1,7 @@
 //以下资源都是网络收集各位大佬的.只是方便个人使用
 {
   //"spider": "./jar/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -68,7 +68,17 @@
       "jar": "./jar/spider.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "ext": "./json/XBPQ/奇优影视.json"
     },
-
+    {
+      "key": "可可",
+      "name": "可可",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "csp_黑狐",
       "name": "黑狐",
