@@ -1,5 +1,5 @@
 {
-  //"spider": "./danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe",
+  //"spider": "./danmu.jar;md5;7c068ecb361701115b06427aead99448",
   "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;9bbe014852ab4d84c5c3174657e93efe",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
@@ -9,7 +9,7 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1"
     },
     {
       "key": "阿里云盘登录",
@@ -21,7 +21,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce"
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1"
     },
     {
       "key": "配置中心",
@@ -424,7 +424,46 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       }
-    }
+    },
+      {
+            "key": "荐片弹幕",
+            "name": "弹幕｜荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;7c068ecb361701115b06427aead99448"
+        },
+        {
+            "key": "哔嘀弹幕",
+            "name": "弹幕｜哔嘀",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;7c068ecb361701115b06427aead99448"
+        },
+        {
+            "key": "不太灵弹幕",
+            "name": "弹幕｜不太灵",
+            "type": 3,
+            "api": "csp_Bt0",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;7c068ecb361701115b06427aead99448"
+        }
   ],
  "parses": [
      {
