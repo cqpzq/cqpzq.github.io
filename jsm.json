@@ -745,7 +745,7 @@
 			"changeable": 1,
 			"ext":"https://www.duanjutv.icu"
 		},
-		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
+		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
