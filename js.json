@@ -233,6 +233,13 @@
       "ext": "./js/百忙无果.js"
     },
     {
+      "key": "drpy_js_YouTub",
+      "name": "YouTub",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/cf workers油管免流.js"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
