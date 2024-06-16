@@ -1,7 +1,7 @@
 //以下资源都是网络收集各位大佬的.只是方便个人使用
 {
   //"spider": "./jar/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -28,6 +28,16 @@
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "文采",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
