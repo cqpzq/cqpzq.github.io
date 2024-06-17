@@ -1,9 +1,9 @@
 {
 	//"spider":"./jar/pg.jar;md5;ddaadf1040e6f14c350db8eb04a1c29b",
 	//"spider":"https://pan.shangui.cc/f/NoqAtj/pg.jar;md5;68afd9af02206fcd8227a990cf384071",
-	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;ffe4454f8dd0372752fd744e120d0e69",
 	//"spider":"https://wp.weikete.cc/down.php/55f3541f7e74f5bd7bf94864c050ee9f.zip;md5;55f3541f7e74f5bd7bf94864c050ee9f",
 	//"spider":"https://raw.cachefly.998111.xyz/cqpzq/c1/main/jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
+                 "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;ffe4454f8dd0372752fd744e120d0e69",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -23,12 +23,13 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext":{
 				"json":"./lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"proxy":"proxy",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":""
+				"codecs":"",
+				"proxy":"proxy"
 			},
 			"style": {
 				"type": "rect",
@@ -238,7 +239,7 @@
 				"链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
 				"线路二次截取":"",
 				"线路数组":"span class=\"label\">&&/span>",
-				"线路标题":"🐾Joao专线",
+				"线路标题":"文才",
 				"播放数组":"episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]",
 				"播放列表":"{&&}",
 				"播放标题":"name\":\"&&\"",
@@ -1034,21 +1035,107 @@
 				]
 			}
 		],
-		"parses":[
-			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
-			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-			{"name":"ok","type":0,"url":"https://okjx.cc/?url="},
-			{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
-			{"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-			{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
-			{"name":"byg解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
-			{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-			{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-			{"name":"26db","type":0,"url":"http://vip.26db.cn/g/?url="},
-			{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
-			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
-			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
+		"parses": [
+			{
+				"name": "聚合",
+				"type": 3,
+				"url": "Demo"
+			},
+			{
+				"name": "web",
+				"type": 3,
+				"url": "Web"
+			},
+			{
+				"name":"看看",
+				"type":0,
+				"url":"https://jx.m3u8.pw/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			},
+			{
+				"name":"FreeOK",
+				"type":0,
+				"url":"https://play.86516.tk/OKPlayer/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			},
+			{
+				"name":"free",
+				"type":0,
+				"url":"https://h5.freejson.xyz/player/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
