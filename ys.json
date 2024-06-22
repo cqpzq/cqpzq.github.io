@@ -45,6 +45,16 @@
             "ext": "./xyq/XYQHiker/玩偶哥哥.json"
         },
         {
+            "key": "Gitcafe",
+            "name": "云盘｜小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+        },
+        {
             "key": "天天开心",
             "name": "云盘｜开心",
             "type": 3,
