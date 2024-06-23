@@ -1,5 +1,5 @@
 {
-	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;87331b204c21ef4f17973cad59cc1b92",
+	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;8351537b858c6814aee815bfe92d6253",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -134,8 +134,8 @@
 				"ratio": 1.1
 			}
 		},
-{"key":"紙條搜","name":"紙條搜|网盘","type":3,"api":"csp_XiaoZhiTiao","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
-		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
+                                {"key":"紙條搜","name":"紙條搜|网盘","type":3,"api":"csp_XiaoZhiTiao","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
