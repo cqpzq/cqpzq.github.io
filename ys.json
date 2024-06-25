@@ -54,6 +54,16 @@
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
+            "key": "易迪",
+            "name": "云盘｜易迪",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xyq/XYQHiker/易迪.json"
+        },
+        {
             "key": "天天开心",
             "name": "云盘｜开心",
             "type": 3,
