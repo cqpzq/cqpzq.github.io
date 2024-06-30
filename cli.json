@@ -19,17 +19,6 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "T4-安博",
-      "name": "安博(T4)",
-      "type": 4,
-      "api": "https://tang.serv00.net/power/ub1818",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
-    {
       "key": "cli_gitCafe",
       "name": "纸条(cli)",
       "type": 4,
@@ -97,96 +86,6 @@
         "cookie": ""
       }
     },
-       {
-            "key": "t5-douban",
-            "name": "影视-豆瓣(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/douban.php"
-        },
-        {
-            "key": "t5-yugaopian",
-            "name": "影视-预告片(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/yugaopian.php"
-        },
-        {
-            "key": "t5-剧圈",
-            "name": "影视-剧圈(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/juquan.php"
-        },
-        {
-            "key": "t5-黑狐",
-            "name": "影视-黑狐(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/heihu.php"
-        },
-        {
-            "key": "t5-jp",
-            "name": "影视-荐片(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/jianpian.php"
-        },
-        {
-            "key": "t5-南瓜",
-            "name": "影视-南瓜(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/nangua.php"
-        },
-        {
-            "key": "t5-极光",
-            "name": "影视-极光(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/jiguang.php"
-        },
-        {
-            "key": "t5-caiji",
-            "name": "影视-采集(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/caiji.php"
-        },
-        {
-            "key": "t5-wencai",
-            "name": "影视-文才(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/wencai.php"
-        },
-        {
-            "key": "t5-xinshijue",
-            "name": "影视-新视觉(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/xinshijue.php"
-        },
-        {
-            "key": "t5-saohuo",
-            "name": "影视-骚火(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/saohuo.php"
-        },
-        {
-            "key": "t5-jojo",
-            "name": "影视-jojo(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/jojo.php"
-        },
-        {
-            "key": "t5-mingri",
-            "name": "影视-明日(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/mingri.php"
-        },
-        {
-            "key": "t5-6v",
-            "name": "磁力-6V(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/6v.php"
-        },
-        {
-            "key": "t5-哔嘀",
-            "name": "磁力-哔嘀(t4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t5/bdys.php"
-        },
     {
       "key": "push_agent",
       "name": "推送(cli)",
