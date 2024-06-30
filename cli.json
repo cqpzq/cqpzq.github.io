@@ -1,14 +1,22 @@
 {
+    "lives": [
+        {
+            "name": "tvlive",
+            "type": 0,
+            "url": "https://xhdwc.tk/tvlive.txt",
+            "playerType": 1
+        }
+    ],
   "sites": [
     {
-      "key": "lf_js_search",
-      "name": "搜索(lf)",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "api": "./lib/lf_search3_min.js"
+     "key": "lf_js_search",
+     "name": "搜索",
+     "type": 3,
+     "searchable": 0,
+     "changeable": 1,
+     "quickSearch": 0,
+     "filterable": 1,
+     "api": "./lib/lf_search3_min.js"
     },
     {
       "key": "cli_gitCafe",
@@ -18,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "csp_woggcli",
@@ -28,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "ali_cli_Alii",
@@ -57,6 +65,30 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+     "key": "subaibai",
+     "name": "素白白[cat]",
+     "type": 3,
+     "api": "./open/subaibai_open.js"
+    },
+    {
+     "key": "kunyu77",
+     "name": "七七[cat]",
+     "type": 3,
+     "api": "./open/kunyu77_open.js"
+    },
+    {
+     "key": "czzy",
+     "name": "厂长[cat]",
+     "type": 3,
+     "api": "./open/czzy_open.js"
+    },
+    {
+     "key": "ngys",
+     "name": "南瓜[cat]",
+     "type": 3,
+     "api": "./open/ng_open.js"
     },
     {
       "key": "bbcli",
@@ -89,5 +121,6 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     }
+
   ]
 }
