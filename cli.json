@@ -1,12 +1,4 @@
 {
-  "lives": [
-    {
-      "name": "tvlive",
-      "type": 0,
-      "url": "https://cqpzq.github.io/biu/tangs.txt",
-      "playerType": 1
-    }
-  ],
   "sites": [
     {
       "key": "lf_js_search",
