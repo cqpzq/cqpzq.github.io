@@ -110,15 +110,6 @@
       ]
     },
     {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./json/douban.json"
-    },
-    {
       "key": "新6V",
       "name": "新6V",
       "type": 3,
