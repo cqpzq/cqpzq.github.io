@@ -265,7 +265,7 @@
 				"类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
 				}
 		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -302,7 +302,7 @@
 		{
 			"key":"XBPQ_电影先生",
 			"name": "电影先生|XBPQ",
-			"jar": "./lib/XBPQ.jar",
+			"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -320,7 +320,7 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{
@@ -343,7 +343,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			
-			"jar": "./lib/XBPQ.jar",
+			"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {
 				"主页url": "https://www.xbw20.com/",
 				"编码": "gb2312",
@@ -367,7 +367,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext": "./lib/bttt.json",
-			"jar": "./lib/XBPQ.jar"
+			"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{"key":"布谷tv",
 			"name":"🐦布谷|4K磁力|XBPQ",
@@ -376,7 +376,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar": "./lib/XBPQ.jar",
+			"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext":{
 				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
 				"简介":"◎简*介</p>&&</p>",
@@ -408,7 +408,7 @@
 				"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
 				"播放列表":"<ul>&&</div>[包含:magnet]"
 			},
-			"jar": "./lib/XBPQ.jar"
+			"jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{
 			"key": "NanGua",
