@@ -2,6 +2,18 @@
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
     {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+   {
+      "name": "鸭鸭",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "NICS",
+      "server": "https://nics.eu.org"
+    },
+    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
