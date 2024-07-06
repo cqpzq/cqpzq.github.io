@@ -1,5 +1,4 @@
 var rule = {
-	
 	title:'酷吧[磁]',
 	host:'https://www.kuba222.com',
         homeUrl: '/',
