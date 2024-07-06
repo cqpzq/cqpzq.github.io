@@ -1,6 +1,6 @@
 {
-	"spider":"https://fastraw.ixnic.net/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
-	//"spider":"https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
+	//"spider":"https://fastraw.ixnic.net/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
+	"spider":"https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
 	"sites":[
 		{
 			"key":"Youtube",
