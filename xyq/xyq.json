@@ -2,6 +2,7 @@
     "spider": "./spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
+        
         {
             "key": "豆瓣",
             "name": "云盘｜首页",
