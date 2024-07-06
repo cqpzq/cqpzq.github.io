@@ -1,5 +1,6 @@
 {
-  "spider": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/custom_spider.jar;md5;d647921c4123a9fec5852013eba7ba1d",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/custom_spider.jar;md5;d647921c4123a9fec5852013eba7ba1d",
+  //"spider": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/custom_spider.jar;md5;d647921c4123a9fec5852013eba7ba1d",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
