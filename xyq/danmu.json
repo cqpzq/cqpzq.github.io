@@ -7,8 +7,8 @@
             "name": "云盘｜首页",
             "type": 3,
             "api": "csp_Douban",
+            "searchable": 0,
             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/xyq/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
-            "searchable": 0
         },
         {
             "key": "阿里云盘登录",
@@ -19,8 +19,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/xyq/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
-            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
             "key": "配置中心",
@@ -123,7 +123,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
-            },
+            }
         },
         {
             "key": "夸克土豆弹幕",
@@ -315,7 +315,7 @@
                 "danmu": true
             }
         },
-       {
+        {
             "key": "南瓜弹幕",
             "name": "南瓜弹幕",
             "type": 3,
@@ -440,7 +440,6 @@
             "searchable": 1,
             "changeable": 0
         },
-
         {
             "key": "push_agent",
             "name": "推送",
