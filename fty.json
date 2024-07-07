@@ -274,59 +274,6 @@
             "changeable":1
         },
         {
-            "key":"88js",
-            "name":"⚽ 88┃看球",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
-            "style":{
-                "type":"list"
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"Jrsjs",
-            "name":"⚽ Jrs┃球迷",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-            "style":{
-                "type":"list"
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"企鹅xp",
-            "name":"🐧鹅鹅┃体育",
-            "type":3,
-            "api":"csp_XPath",
-            "style":{
-                "type":"list"
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0,
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
-        },
-        {
-            "key":"酷奇",
-            "name":"🎤酷奇┃MV",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
-            "style":{
-                "type":"rect",
-                "ratio":1.597
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
             "key":"MTV",
             "name":"🎧明星┃MV",
             "type":3,
