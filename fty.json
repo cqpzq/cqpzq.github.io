@@ -351,60 +351,6 @@
             "changeable":0
         },
         {
-            "key":"虎牙直播js",
-            "name":"🐯虎牙┃直播",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-            "style":{
-                "type":"rect",
-                "ratio":1.755
-            },
-            "playerType":"1",
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"斗鱼js",
-            "name":"🐟斗鱼┃直播",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
-            "style":{
-                "type":"rect",
-                "ratio":1.755
-            },
-            "playerType":"1",
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"聚短视频js",
-            "name":"📽️聚短┃视频",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"有声小说js",
-            "name":"🎧有声┃小说",
-            "type":3,
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
-            "style":{
-                "type":"rect",
-                "ratio":1
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
             "key":"Aid",
             "name":"🚑急救┃教学",
             "type":3,
@@ -417,6 +363,8 @@
                 "ratio":3.8
             }
         },
+        {"key":"米搜","name":"🦋米搜┃搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+        {"key":"夸搜","name":"🐌夸搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
         {
             "key":"YiSo",
             "name":"😹易搜┃搜索",
