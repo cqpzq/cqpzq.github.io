@@ -1,0 +1,69 @@
+{
+  "sites": [
+    {
+      "key": "cli_gitCafe",
+      "name": "纸条(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe?sort=原画,蓝光,超清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"39744ec700dd467ebbdf27e4d572f953"
+    },
+    {
+      "key": "csp_woggcli",
+      "name": "玩偶(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"39744ec700dd467ebbdf27e4d572f953"
+    },
+    {
+      "key": "荐片cli",
+      "name": "荐片(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bbcli",
+      "name": "b站(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_Bili?sort=mp4",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "playerType": 2,
+      "viewType": 1,
+      "ext": {
+        "type": "抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#抖音#动物#山歌#黄梅戏#软件教程#平面设计教学#考公考证#Windows#中国女团#韩国女团#日本女团#磁力#18岁#电影解说#电视剧解说",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "推送(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "39744ec700dd467ebbdf27e4d572f953"
+    },
+    {
+      "key":"移动云盘",
+      "name":"移动云盘",
+      "type":1,
+      "playerType":1,
+      "api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "quickSearch":1, 
+      "timeout":30
+    }
+  ]
+}
