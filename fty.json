@@ -462,24 +462,6 @@
             "quickSearch":0,
             "changeable":0,
             "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-        },
-        {
-            "key":"fan",
-            "name":"导航 www.饭太硬.com",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":0,
-            "changeable":0
-        },
-        {
-            "key":"cc",
-            "name":"请勿相信视频中广告",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":0,
-            "changeable":0
         }
     ],
     "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
