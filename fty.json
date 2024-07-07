@@ -163,17 +163,6 @@
             "changeable":1
         },
         {
-            "key":"贱贱",
-            "name":"🐭贱贱┃P2P",
-            "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "playerType":"1",
-            "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-        },
-        {
             "key":"可可",
             "name":"👻可可┃多线",
             "type":3,
@@ -285,7 +274,7 @@
             "searchable":0,
             "quickSearch":0,
             "changeable":0,
-            "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+            "ext":"./json/MTV.json"
         },
         {
             "key":"csp_Yj1211",
