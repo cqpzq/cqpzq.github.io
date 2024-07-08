@@ -1,102 +1,102 @@
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-  "drives": [
-    {
-			"name": "开心影视",
-			"server": "http://ttkx.live:5244",
-			"hidden": true,
-			"login": {
-				"username": "ttkx",
-				"password": "aa123456"
-		}
-    },
-    {
-      "name": "星梦",
-      "server": "https://pan.bashroot.top"
-    },
-    {
-			"name": "蚂蚁",
-			"server": "https://pan.mediy.cn"
-		},
-    {
-			"name": "挺好",
-			"server": "https://pan.ztha.top"
-		},
-		{
-      "name": "七米藍", 
-      "server": "https://al.chirmyram.com/"
-    }, 
-    {
-      "name": "⚖托盘",
-      "server": "https://pan.mediy.cn/"
-    },
-    {
-      "name": "ECVE",
-      "server": "https://pan.ecve.cn"
-    },
-    {
-			"name": "雨呢",
-			"server": "https://pan.clun.top"
-		},
-   {
-      "name": "鸭鸭",
-      "server": "http://shicheng.wang:555/"
-    },
-    {
-      "name": "NICS",
-      "server": "https://nics.eu.org"
-    },
-    {
-			"name": "🤱小雅1",
-			"server":"http://60.205.200.121:5344/"
-		},
-  	{
-			"name": "🎆小雅2",
-			"server": "http://61.134.67.189:5678/"
-		},
-    {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "一只魚",
-      "server": "https://vtok.pp.ua/"
-    },
-    {
-      "name": "神族九帝",
-      "server": "https://alist.shenzjd.com"
-    },
-    {
-      "name": "梓澪",
-      "server": "https://zi0.cc"
-    },
-    {
-      "name": "好汉",
-      "server": "https://8023.haohanba.cn"
-    },
-    {
-      "name": "帅盘",
-      "server": "https://hi.shuaipeng.wang"
-    },
-    {
-      "name": "姬路白雪",
-      "server": "https://pan.jlbx.xyz/"
-    },
-    {
-      "name": "範本",
-      "server": "https://one.fongmi.com",
-      "search": true,
-      "hidden": false,
-      "login": {
-        "username": "fongmi",
-        "password": "fongmi"
-      },
-      "params": [
+    "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+    "drives": [
         {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
+            "name": "开心影视",
+            "server": "http://ttkx.live:5244",
+            "hidden": true,
+            "login": {
+                "username": "ttkx",
+                "password": "aa123456"
+            }
+        },
+        {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+        },
+        {
+            "name": "蚂蚁",
+            "server": "https://pan.mediy.cn"
+        },
+        {
+            "name": "挺好",
+            "server": "https://pan.ztha.top"
+        },
+        {
+            "name": "七米藍",
+            "server": "https://al.chirmyram.com/"
+        },
+        {
+            "name": "⚖托盘",
+            "server": "https://pan.mediy.cn/"
+        },
+        {
+            "name": "ECVE",
+            "server": "https://pan.ecve.cn"
+        },
+        {
+            "name": "雨呢",
+            "server": "https://pan.clun.top"
+        },
+        {
+            "name": "鸭鸭",
+            "server": "http://shicheng.wang:555/"
+        },
+        {
+            "name": "NICS",
+            "server": "https://nics.eu.org"
+        },
+        {
+            "name": "🤱小雅1",
+            "server": "http://60.205.200.121:5344/"
+        },
+        {
+            "name": "🎆小雅2",
+            "server": "http://61.134.67.189:5678/"
+        },
+        {
+            "name": "觸光",
+            "server": "https://pan.ichuguang.com"
+        },
+        {
+            "name": "一只魚",
+            "server": "https://vtok.pp.ua/"
+        },
+        {
+            "name": "神族九帝",
+            "server": "https://alist.shenzjd.com"
+        },
+        {
+            "name": "梓澪",
+            "server": "https://zi0.cc"
+        },
+        {
+            "name": "好汉",
+            "server": "https://8023.haohanba.cn"
+        },
+        {
+            "name": "帅盘",
+            "server": "https://hi.shuaipeng.wang"
+        },
+        {
+            "name": "姬路白雪",
+            "server": "https://pan.jlbx.xyz/"
+        },
+        {
+            "name": "範本",
+            "server": "https://one.fongmi.com",
+            "search": true,
+            "hidden": false,
+            "login": {
+                "username": "fongmi",
+                "password": "fongmi"
+            },
+            "params": [
+                {
+                    "path": "/安齋拉拉",
+                    "pass": "18181818"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
