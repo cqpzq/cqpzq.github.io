@@ -285,7 +285,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "ext": "./json/七新影视.json"
         },
         {
@@ -293,7 +293,7 @@
             "name": "黑狐影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "ext": {
                 "站名": "黑狐影院",
                 "主页url": "http://fagmn.com",
@@ -330,7 +330,7 @@
         {
             "key": "XBPQ_电影先生",
             "name": "电影先生",
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
