@@ -11,6 +11,15 @@
             }
         },
         {
+            "name": "开心影视",
+            "server": "http://ttkx.live:524",
+            "search": true,
+            "hidden": false,
+            "login": {
+                "username": "ttkx",
+                "password": "aa123456"
+        },
+        {
             "name": "星梦",
             "server": "https://pan.bashroot.top"
         },
