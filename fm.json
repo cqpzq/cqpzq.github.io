@@ -12,31 +12,49 @@
       "changeable": 1,
       "ext": "./json/douban.json"
     },
-    {
-      "key": "商店",
-      "name": "商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/market.json"
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
+           {
+            "key": "360zy",
+            "name": "360采集",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod?",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "古装片",
+                "悬疑片",
+                "犯罪片",
+                "灾难片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "欧美动漫",
+                "日韩动漫",
+                "现代都市",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "女频恋爱",
+                "成长逆袭",
+                "反转爽剧"
+            ]
+        },
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -320,6 +338,31 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
+    },
+        {
+      "key": "商店",
+      "name": "商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/market.json"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "push_agent",
