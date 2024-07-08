@@ -146,7 +146,7 @@
             "changeable": 0,
             "ext": "./json/alist.json"
         },
-                {
+        {
             "key": "阿里合集",
             "name": "阿里合集",
             "type": 3,
@@ -159,7 +159,7 @@
                 "token": "file://TV/ali_token.txt",
                 "share": "file://TV/阿里集合.json"
             },
-                     "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "style": {
                 "type": "list"
             },
@@ -192,10 +192,10 @@
                 "cookie": "file://TV/quark_cookie.txt",
                 "site": "https://tudou.lvdoui.top"
             },
-             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "timeout": 25
         },
-            {
+        {
             "key": "csp_Qkpanso",
             "name": "夸克盘搜",
             "type": 3,
@@ -208,7 +208,7 @@
             },
             "timeout": 15
         },
-                {
+        {
             "key": "影搜",
             "name": "影搜",
             "type": 3,
@@ -216,7 +216,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-                     "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt"
