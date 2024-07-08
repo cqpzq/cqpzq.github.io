@@ -12,6 +12,20 @@
             "ext": "./json/douban.json"
         },
         {
+            "key": "配置中心",
+            "name": "‍配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
             "key": "360zy",
             "name": "360采集",
             "type": 1,
@@ -131,6 +145,83 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "./json/alist.json"
+        },
+                {
+            "key": "阿里合集",
+            "name": "阿里合集",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "share": "file://TV/阿里集合.json"
+            },
+                     "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "团长",
+            "name": "团长",
+            "type": 3,
+            "api": "csp_Tzfile",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "土豆网盘",
+            "name": "土豆",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://tudou.lvdoui.top"
+            },
+             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "timeout": 25
+        },
+            {
+            "key": "csp_Qkpanso",
+            "name": "夸克盘搜",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt"
+            },
+            "timeout": 15
+        },
+                {
+            "key": "影搜",
+            "name": "影搜",
+            "type": 3,
+            "api": "csp_Yingso",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+                     "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt"
+            },
+            "timeout": 15
         },
         {
             "key": "賤賤",
