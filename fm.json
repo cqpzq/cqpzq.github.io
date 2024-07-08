@@ -154,7 +154,7 @@
         },
         {
             "key": "XBPQ_黑狐影院",
-            "name": "黑狐影院|XBPQ",
+            "name": "黑狐影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
@@ -193,7 +193,7 @@
         },
         {
             "key": "XBPQ_电影先生",
-            "name": "电影先生|XBPQ",
+            "name": "电影先生",
             "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
             "type": 3,
             "api": "csp_XBPQ",
