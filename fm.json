@@ -19,7 +19,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "style": {
                 "type": "rect",
                 "ratio": 1.43
@@ -66,6 +66,49 @@
                 "女频恋爱",
                 "成长逆袭",
                 "反转爽剧"
+            ]
+        },
+        {
+            "key": "csp_xml_爱坤",
+            "name": "爱坤资源",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://www.ikdmjx.com/?url=",
+            "categories": [
+                "短剧",
+                "邵氏电影",
+                "爽文短剧",
+                "动作片",
+                "国产剧",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动漫电影",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "台湾剧",
+                "日剧",
+                "海外剧",
+                "泰剧",
+                "体育",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "伦理片"
             ]
         },
         {
@@ -159,7 +202,7 @@
                 "token": "file://TV/ali_token.txt",
                 "share": "file://TV/阿里集合.json"
             },
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "style": {
                 "type": "list"
             },
@@ -173,6 +216,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt"
@@ -192,7 +236,7 @@
                 "cookie": "file://TV/quark_cookie.txt",
                 "site": "https://tudou.lvdoui.top"
             },
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "timeout": 25
         },
         {
@@ -203,6 +247,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"
             },
@@ -216,7 +261,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt"
@@ -301,33 +346,6 @@
                 "播放数组": "<div class=\"scroll-content\">&&</div>",
                 "播放标题": "<span>&&</span>",
                 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-            }
-        },
-        {
-            "key": "qimaoys",
-            "name": "七猫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.cachefly.998111.xyz/cqpzq/cqpzq.github.io/master/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "ext": {
-                "主页url": "http://www.qimaoym.com",
-                "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
-                "标题": "title=\"&&\"",
-                "副标题": "module-item-text\">&&</div>",
-                "链接": "href=\"&&\"",
-                "图片": "data-src=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "线路数组": "module-tab-item tab-item\"&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
-                "播放数组": "class=\"module-blocklist\">&&</div",
-                "播放列表": "<a&&</a",
-                "播放标题": "<span&&</span",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
-                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
             }
         },
         {
@@ -424,56 +442,6 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "非凡",
-            "name": "非凡",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_新浪",
-            "name": "🎦新浪┃2K",
-            "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-            "categories": [
-                "短剧",
-                "邵氏电影",
-                "爽文短剧",
-                "动作片",
-                "大陆剧",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动漫电影",
-                "欧美剧",
-                "港澳剧",
-                "韩剧",
-                "台湾剧",
-                "日剧",
-                "海外剧",
-                "泰剧",
-                "体育",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
         },
         {
             "key": "高清资源网",
