@@ -12,28 +12,6 @@
             "filterable":0
         },
         {
-            "key": "hipy_js_360影视[官]",
-            "name": "360影视[官](drpy_t3)",
-            "type": 3,
-            "api": "./DRPY/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./DRPY/drpy_js/360影视[官].js"
-        },
-        {
-            "key": "hipy_js_菜狗[官]",
-            "name": "菜狗[官](drpy_t3)",
-            "type": 3,
-            "api": "./DRPY/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./DRPY/drpy_js/菜狗[官].js"
-        },
-        {
             "key":"玩偶",
             "name":"👽玩偶哥哥┃4K弹幕",
             "type":3,
