@@ -12,7 +12,7 @@
             "filterable":1,
             "api":"https://cqpzq.github.io/lib/路飞豆瓣.js",
             "indexs":1,
-            "ext":"https://cqpzq.github.io//lib/tokenm.json"
+            "ext":"https://cqpzq.github.io/lib/tokenm.json"
         },
         {
             "key":"阿里云盘登录",
