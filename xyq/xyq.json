@@ -1,5 +1,5 @@
 {
-    "spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
+    "spider": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -31,7 +31,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "我的阿里",
@@ -47,7 +47,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "我的夸克",
@@ -63,7 +63,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "阿里合集",
@@ -80,7 +80,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "玩偶弹幕",
@@ -96,7 +96,7 @@
                 "site": "https://www.wogg.net",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "六趣弹幕",
@@ -112,7 +112,7 @@
                 "site": "https://cms.715d.com",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克玩偶弹幕",
@@ -128,7 +128,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克土豆弹幕",
@@ -144,7 +144,7 @@
                 "site": "https://tudou.lvdoui.top",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克多多弹幕",
@@ -160,7 +160,7 @@
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克团长弹幕",
@@ -175,7 +175,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克影搜弹幕",
@@ -190,7 +190,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "搜索弹幕",
@@ -204,7 +204,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "云云弹幕",
@@ -218,7 +218,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "云搜弹幕",
@@ -232,7 +232,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "盘搜弹幕",
@@ -246,7 +246,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "易搜弹幕",
@@ -261,7 +261,7 @@
                 "danmu": true,
                 "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "云盘弹幕",
@@ -275,7 +275,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "小纸条弹幕",
@@ -288,7 +288,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克趣盘搜弹幕",
@@ -303,7 +303,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克爱盘搜弹幕",
@@ -318,7 +318,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "夸克盘搜弹幕",
@@ -332,7 +332,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         },
         {
             "key": "玩偶哥哥",
@@ -496,7 +496,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
         }
     ],
     "doh": [
@@ -547,7 +547,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/live.txt",
+            "url": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
