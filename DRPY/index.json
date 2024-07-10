@@ -5,6 +5,18 @@
 	"spider": "https://git.886.be/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/DRPY/jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
 	"sites": [
 		{
+                            "key":"lf_js_search",
+                           "name":"豆瓣LF",
+            "type":3,
+            "searchable":0,
+            "changeable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "api":"https://cqpzq.github.io/lib/路飞豆瓣.js",
+            "indexs":1,
+            "ext":"https://cqpzq.github.io/lib/tokenm.json"
+                },
+		{
 			"key": "hipy_js_360影视[官]",
 			"name": "360影视[官](drpy_t3)",
 			"type": 3,
