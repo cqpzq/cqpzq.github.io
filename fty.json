@@ -13,7 +13,7 @@
         },
         {
             "key": "360zy",
-            "name": "360采集",
+            "name": "🐭360|采集",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod?",
             "searchable": 1,
