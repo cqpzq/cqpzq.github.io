@@ -269,6 +269,50 @@
             "timeout": 15
         },
         {
+			"key": "hipy_js_厂长资源",
+			"name": "厂长资源(drpy_t3)",
+			"type": 3,
+			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/厂长资源.js"
+		},
+        {
+			"key": "hipy_js_电影先生",
+			"name": "电影先生(drpy_t3)",
+			"type": 3,
+			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/电影先生.js"
+		},
+        {
+			"key": "hipy_js_爱看农民[优]",
+			"name": "爱看农民[优](drpy_t3)",
+			"type": 3,
+			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/爱看农民[优].js"
+		},
+        {
+			"key": "hipy_js_大师兄影视[优]",
+			"name": "大师兄影视[优](drpy_t3)",
+			"type": 3,
+			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/大师兄影视[优].js"
+		},
+        {
             "key": "賤賤",
             "name": "賤賤",
             "type": 3,
