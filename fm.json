@@ -270,7 +270,7 @@
         },
         {
 			"key": "hipy_js_厂长资源",
-			"name": "厂长资源(drpy_t3)",
+			"name": "厂长资源",
 			"type": 3,
 			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -281,7 +281,7 @@
 		},
         {
 			"key": "hipy_js_电影先生",
-			"name": "电影先生(drpy_t3)",
+			"name": "电影先生",
 			"type": 3,
 			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -292,7 +292,7 @@
 		},
         {
 			"key": "hipy_js_爱看农民[优]",
-			"name": "爱看农民[优](drpy_t3)",
+			"name": "爱看农民",
 			"type": 3,
 			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -303,7 +303,7 @@
 		},
         {
 			"key": "hipy_js_大师兄影视[优]",
-			"name": "大师兄影视[优](drpy_t3)",
+			"name": "大师兄影视",
 			"type": 3,
 			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -369,27 +369,6 @@
                 "免嗅": "0",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
                 "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-            }
-        },
-        {
-            "key": "XBPQ_电影先生",
-            "name": "电影先生",
-            "jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-                "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-                "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-                "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-                "图片": "src=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索副标题": ">&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-                "播放数组": "<div class=\"scroll-content\">&&</div>",
-                "播放标题": "<span>&&</span>",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
             }
         },
         {
