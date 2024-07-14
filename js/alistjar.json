@@ -71,6 +71,20 @@
             "search": true,
             "searchable": true,
             "server": "http://192.168.101.13:5244"
+        },
+            {
+      "name": "範本",
+      "server": "http://ttkx.live:5244",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "ttkx",
+        "password": "aa123456"
+      },
+     "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
         }
     ]
 }
