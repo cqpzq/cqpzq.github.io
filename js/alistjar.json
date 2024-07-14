@@ -1,14 +1,5 @@
 {
     "drives":[
-              {
-            "name":"开心",
-            "server":"http://ttkx.live:5244",
-            "search":true,
-            "hidden":false,
-            "login":{
-                "username":"ttkx",
-                "password":"aa123456"
-            },
         {
             "name":"七米藍",
             "search":true,
@@ -81,6 +72,15 @@
             "searchable":true,
             "server":"http://192.168.101.13:5244"
         },
+        {
+            "name":"开心",
+            "server":"http://ttkx.live:5244",
+            "search":true,
+            "hidden":false,
+            "login":{
+                "username":"ttkx",
+                "password":"aa123456"
+            },
             "params":[
                 {
                     "path":"/安齋拉拉",
