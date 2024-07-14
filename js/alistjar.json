@@ -1,16 +1,10 @@
 {
   "drives": [
   
-        {
-      "name": "alist.jar",
-      "search": true,
-      "searchable": true,
-      "server": "http://ttkx.live:5244"
-             "login": {
-                "username": "ttkx",
-                "password": "aa123456"
-            }
-        },
+   {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
     {
       "name": "alist.jar",
       "search": true,
