@@ -1,5 +1,15 @@
 {
   "drives": [
+  
+    {
+      "name": "开心影视",
+      "server": "http://ttkx.live:5244",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "ttkx",
+        "password": "aa123456"
+    },
     {
       "name": "alist.jar",
       "search": true,
