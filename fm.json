@@ -1,4 +1,4 @@
-{
+ {
     "spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/custom_spider.jar;md5;2db0ca4bba291bb9357998923bea5c34",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -10,20 +10,6 @@
             "searchable": 0,
             "changeable": 1,
             "ext": "./json/douban.json"
-        },
-        {
-            "key": "配置中心",
-            "name": "‍配置中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
-            "style": {
-                "type": "rect",
-                "ratio": 1.43
-            }
         },
         {
             "key": "360zy",
@@ -188,25 +174,6 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "./json/alist.json"
-        },
-        {
-            "key": "阿里合集",
-            "name": "阿里合集",
-            "type": 3,
-            "api": "csp_AliShare",
-            "searchable": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "share": "file://TV/阿里集合.json"
-            },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
         },
         {
             "key": "团长",
