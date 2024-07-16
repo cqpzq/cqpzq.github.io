@@ -345,6 +345,14 @@
 			"order_num": 0,
 			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/短剧天堂.js"
 		},
+	{
+            "key": "PTT",
+            "name": "PTT视频",
+            "type": 3,
+            "api": "csp_PTT",
+            "searchable": 0,
+            "changeable": 0
+        },
         {
             "key": "賤賤",
             "name": "賤賤",
@@ -534,49 +542,6 @@
             ]
         },
         {
-            "key": "csp_xml_爱坤",
-            "name": "爱坤资源",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playurl": "json:https://www.ikdmjx.com/?url=",
-            "categories": [
-                "短剧",
-                "邵氏电影",
-                "爽文短剧",
-                "动作片",
-                "国产剧",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动漫电影",
-                "欧美剧",
-                "港澳剧",
-                "韩剧",
-                "台湾剧",
-                "日剧",
-                "海外剧",
-                "泰剧",
-                "体育",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "伦理片"
-            ]
-        },
-        {
             "key": "櫻花",
             "name": "櫻花",
             "type": 3,
@@ -634,14 +599,6 @@
             "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "PTT",
-            "name": "PTT",
-            "type": 3,
-            "api": "csp_PTT",
             "searchable": 0,
             "changeable": 0
         },
