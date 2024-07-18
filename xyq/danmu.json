@@ -628,8 +628,23 @@
             "type":3,
             "api":"csp_Duanj",
             "searchable":1,
-            "changeable":0
+            "changeable":0,
+            "style": {
+            "type": "rect",
+            "ratio": 1.433
+            }
         },
+        {
+            "key":"在线短剧",
+            "name":"在线短剧",
+            "type":3,
+            "api":"csp_Duanju",
+            "searchable":1,
+            "changeable":0,
+            "style":{
+            "type":"rect",
+            "ratio":1.433
+        }
         {
             "key":"push_agent",
             "name":"推送",
