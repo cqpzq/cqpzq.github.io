@@ -1,5 +1,5 @@
 {
-	 "spider":"https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;c687efe41ea48c68e9ddd63d0796d242",
+	 "spider":"https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar;md5;5815efa4099989f69fa3ccc49423c26c",
 	"sites":[
 		{
 			"key":"Youtube",
@@ -9,7 +9,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"timeout": 60,
+			"timeout": 120,
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/youtube.json",
@@ -131,7 +131,7 @@
 				"ratio": 1.1
 			}
 		},
-                                 {
+                               {
                                            "key":"紙條搜",
                                            "name":"紙條搜|网盘",
                                            "type":3,
@@ -230,7 +230,7 @@
 			}
 		},
 		{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
-		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":":https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
@@ -276,7 +276,7 @@
 				"类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
 				}
 		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -313,7 +313,7 @@
 		{
 			"key":"XBPQ_电影先生",
 			"name": "电影先生|XBPQ",
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+			"jar": "./lib/XBPQ.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -331,7 +331,7 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{
@@ -339,7 +339,7 @@
 			"name": "迅雷吧|XBPQ|磁力",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+			"jar": "./lib/XBPQ.jar",
 			"ext": {
 				"播放数组": "copylink&&</a>",
 				"播放链接": "alt=\"&&\"",
@@ -354,7 +354,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+			"jar": "./lib/XBPQ.jar",
 			"ext": {
 				"主页url": "https://www.xbw20.com/",
 				"编码": "gb2312",
@@ -378,7 +378,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext": "./lib/bttt.json",
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar"
+			"jar": "./lib/XBPQ.jar"
 		},
 		{"key":"布谷tv",
 			"name":"🐦布谷|4K磁力|XBPQ",
@@ -387,7 +387,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar",
+			"jar": "./lib/XBPQ.jar",
 			"ext":{
 				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
 				"简介":"◎简*介</p>&&</p>",
@@ -419,7 +419,7 @@
 				"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
 				"播放列表":"<ul>&&</div>[包含:magnet]"
 			},
-			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/XBPQ.jar"
+			"jar": "./lib/XBPQ.jar"
 		},
 		{
 			"key": "NanGua",
