@@ -163,15 +163,6 @@
 			"ext": "./XYQHiker/云盘资源.json"
 		},
 		{
-			"key": "采集之王",
-			"name": "采集之王",
-			"type": 3,
-			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
-		},
-		{
 			"key": "我的小站",
 			"name": "云盘｜小站",
 			"type": 3,
