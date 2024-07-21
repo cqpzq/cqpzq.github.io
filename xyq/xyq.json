@@ -1,5 +1,5 @@
 {
-	"spider": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;53833e13e30420e99fbd39b83420a136",
+	"spider": "https://gentle-block-5ff5.stranger08024.workers.dev/cfdownload/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;53833e13e30420e99fbd39b83420a136",
 	"wallpaper": "https://api.likepoems.com/img/bing",
 	"sites": [{
 			"key": "豆瓣",
@@ -20,7 +20,7 @@
 				"type": "rect",
 				"ratio": 1.597
 			},
-			"jar": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;924bd95dce1cd389c13fe5e19eedf8ba"
+			"jar": "https://kkk.jizhuni.workers.dev/cfdownload/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar;md5;924bd95dce1cd389c13fe5e19eedf8ba"
 		},
 		{
 			"key": "玩偶哥哥",
