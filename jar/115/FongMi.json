@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "https://gh.idayer.com/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/115/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
   "sites": [
     {
       "key": "玩偶 | DK",
@@ -9,9 +9,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./jar/115/peizhi.json",
         "siteUrl": "https://wogg.link/",
-        "filter": "./wogg.json"
+        "filter": "./jar/115/wogg.json"
       }
     }
   ]
