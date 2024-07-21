@@ -93,8 +93,7 @@
                 "大陆综艺",
                 "港台综艺",
                 "日韩综艺",
-                "欧美综艺",
-                "伦理片"
+                "欧美综艺"
             ]
         },
         {
@@ -312,22 +311,8 @@
 			"order_num": 0,
 			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/短剧天堂.js"
 		},
-        {
-            "key": "Eighteen",
-            "name": "Eighteen",
-            "type": 3,
-            "api": "csp_Eighteen",
-            "searchable": 1,
-            "changeable": 1
-        },
-	{
-            "key": "PTT",
-            "name": "PTT视频",
-            "type": 3,
-            "api": "csp_PTT",
-            "searchable": 1,
-            "changeable": 1
-        },
+        //{"key": "Eighteen","name": "Eighteen","type": 3,"api": "csp_Eighteen","searchable": 1,"changeable": 1},
+	//{"key": "PTT","name": "PTT视频","type": 3,"api": "csp_PTT","searchable": 1,"changeable": 1},
         {
             "key": "賤賤",
             "name": "賤賤",
