@@ -9,9 +9,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./jar/115/peizhi.json",
+        "commonConfig": "./peizhi.json",
         "siteUrl": "https://wogg.link/",
-        "filter": "./jar/115/wogg.json"
+        "filter": "./wogg.json"
       }
     }
   ]
