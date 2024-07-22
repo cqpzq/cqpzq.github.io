@@ -1,5 +1,6 @@
 {
-	"spider": "https://down.npee.cn/?https://github.com/cqpzq/cqpzq.github.io/blob/main/jar/pg.jar",
+	//"spider": "https://down.npee.cn/?https://github.com/cqpzq/cqpzq.github.io/blob/main/jar/pg.jar;md5;2ea7bc2067f0ffecf9a07f81d704d4e1",
+	"spider":"https://mirror.h2o-2.org/https://github.com/cqpzq/cqpzq.github.io/blob/mainjar/pg.jar;md5;2ea7bc2067f0ffecf9a07f81d704d4e1",
 	"sites": [{
 			"key": "Youtube",
 			"name": "Youtube",
