@@ -1,5 +1,5 @@
 {
-	"spider": "./pg.jar",
+	"spider": "https://down.npee.cn/?https://github.com/cqpzq/cqpzq.github.io/blob/main/jar/pg.jar",
 	"sites": [{
 			"key": "Youtube",
 			"name": "Youtube",
