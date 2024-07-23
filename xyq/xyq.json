@@ -33,15 +33,15 @@
 			"ext": "./XYQHiker/玩偶哥哥.json"
 		},
 		{
-                        "key": "Gitcafe",
-                        "name": "云盘｜小纸条",
-                        "type": 3,
-                        "api": "csp_Gitcafe",
-                        "searchable": 1,
-                        "quickSearch": 1,
-                        "filterable": 1,
-                        "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-                },
+			"key": "Gitcafe",
+			"name": "云盘｜小纸条",
+			"type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+		},
 		{
 			"key": "云盘六趣",
 			"name": "云盘｜六趣",
@@ -201,6 +201,42 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": " http://122.228.84.103:5825/api.php/app/"
+		},
+		{
+			"key": "全网影视",
+			"name": "全网影视",
+			"type": 3,
+			"api": "csp_Quanwk",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "最新影视",
+			"name": "最新影视",
+			"type": 3,
+			"api": "csp_Zx1080",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "爱看影视",
+			"name": "爱看影视",
+			"type": 3,
+			"api": "csp_Ikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "桃子影视",
+			"name": "桃子影视",
+			"type": 3,
+			"api": "csp_Taozi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "追忆影视",
@@ -457,7 +493,7 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-	
+
 		{
 			"key": "骚火影视",
 			"name": "骚火影视",
