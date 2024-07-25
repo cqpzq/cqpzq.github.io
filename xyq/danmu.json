@@ -175,8 +175,7 @@
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"site": "https://duopan.fun",
 				"danmu": true
-			},
-			"jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+			}
 		},
 		{
 			"key": "夸克至臻弹幕",
@@ -422,6 +421,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key": "在线短剧",
+			"name": "在线短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 1,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.433
+			}
 		},
 		{
 			"key": "无忧短剧",
