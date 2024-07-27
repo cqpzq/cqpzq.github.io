@@ -10,6 +10,20 @@
  			"changeable": 1,
  			"ext": "./json/douban.json"
  		},
+     {
+      "key": "配置中心",
+      "name": "‍配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
+    },
  		{
  			"key": "360zy",
  			"name": "360采集",
@@ -181,11 +195,11 @@
  			"searchable": 1,
  			"filterable": 1,
  			"changeable": 1,
+    "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
  			"ext": {
  				"token": "file://TV/ali_token.txt",
  				"cookie": "file://TV/quark_cookie.txt",
  				"uc_cookie": "file://TV/uc_cookie.txt",
- 				"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
  				"danmu": true
  			},
  			"timeout": 30
