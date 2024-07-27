@@ -174,6 +174,40 @@
             "changeable": 0,
             "ext": "./json/alist.json"
         },
+	            {
+            "key": "立播弹幕版",
+            "name": "立播",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+		    "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "蜡笔弹幕",
+            "name": "蜡笔",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+		"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://duopan.fun",
+                "danmu": true
+            },
+            "timeout": 25
+        },
         {
             "key": "团长",
             "name": "团长",
