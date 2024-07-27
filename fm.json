@@ -182,7 +182,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt"
@@ -202,7 +202,7 @@
                 "cookie": "file://TV/quark_cookie.txt",
                 "site": "https://tudou.lvdoui.top"
             },
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
             "timeout": 25
         },
         {
@@ -213,7 +213,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"
             },
@@ -227,7 +227,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar;md5;2c79e70c73e3f5b198256f726cf85daf",
+            "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt"
