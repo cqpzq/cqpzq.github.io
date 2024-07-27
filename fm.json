@@ -11,20 +11,6 @@
  			"ext": "./json/douban.json"
  		},
  		{
- 			"key": "配置中心",
- 			"name": "‍配置中心",
- 			"type": 3,
- 			"api": "csp_Config",
- 			"searchable": 0,
- 			"changeable": 0,
- 			"indexs": 0,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"style": {
- 				"type": "rect",
- 				"ratio": 1.43
- 			}
- 		},
- 		{
  			"key": "360zy",
  			"name": "360采集",
  			"type": 1,
@@ -110,25 +96,6 @@
  			]
  		},
  		{
- 			"key": "阿里合集",
- 			"name": "阿里合集",
- 			"type": 3,
- 			"api": "csp_AliShare",
- 			"searchable": 1,
- 			"changeable": 0,
- 			"filterable": 0,
- 			"indexs": 0,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"share": "file://TV/阿里集合.json"
- 			},
- 			"style": {
- 				"type": "list"
- 			},
- 			"timeout": 30
- 		},
- 		{
  			"key": "玩偶",
  			"name": "玩偶",
  			"type": 3,
@@ -206,101 +173,6 @@
  			"searchable": 1,
  			"changeable": 0,
  			"ext": "./json/alist.json"
- 		},
-
- 		{
- 			"key": "立播弹幕版",
- 			"name": "立播",
- 			"type": 3,
- 			"api": "csp_Libvio",
- 			"searchable": 1,
- 			"filterable": 1,
- 			"changeable": 1,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"cookie": "file://TV/quark_cookie.txt",
- 				"uc_cookie": "file://TV/uc_cookie.txt",
- 				"danmu": true
- 			},
- 			"timeout": 30
- 		},
- 		{
- 			"key": "蜡笔弹幕",
- 			"name": "蜡笔",
- 			"type": 3,
- 			"api": "csp_Wobg",
- 			"quickSearch": 1,
- 			"changeable": 1,
- 			"filterable": 1,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"cookie": "file://TV/quark_cookie.txt",
- 				"site": "https://duopan.fun",
- 				"danmu": true
- 			},
- 			"timeout": 25
- 		},
- 		{
- 			"key": "团长",
- 			"name": "团长",
- 			"type": 3,
- 			"api": "csp_Tzfile",
- 			"searchable": 1,
- 			"filterable": 1,
- 			"changeable": 1,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"cookie": "file://TV/quark_cookie.txt"
- 			},
- 			"timeout": 25
- 		},
- 		{
- 			"key": "土豆网盘",
- 			"name": "土豆",
- 			"type": 3,
- 			"api": "csp_Wobg",
- 			"quickSearch": 1,
- 			"changeable": 1,
- 			"filterable": 1,
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"cookie": "file://TV/quark_cookie.txt",
- 				"site": "https://tudou.lvdoui.top"
- 			},
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"timeout": 25
- 		},
- 		{
- 			"key": "csp_Qkpanso",
- 			"name": "夸克盘搜",
- 			"type": 3,
- 			"api": "csp_Qkpanso",
- 			"searchable": 1,
- 			"filterable": 1,
- 			"changeable": 0,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"cookie": "file://TV/quark_cookie.txt"
- 			},
- 			"timeout": 15
- 		},
- 		{
- 			"key": "影搜",
- 			"name": "影搜",
- 			"type": 3,
- 			"api": "csp_Yingso",
- 			"searchable": 1,
- 			"filterable": 0,
- 			"changeable": 0,
- 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
- 			"ext": {
- 				"token": "file://TV/ali_token.txt",
- 				"cookie": "file://TV/quark_cookie.txt"
- 			},
- 			"timeout": 15
  		},
  		{
  			"key": "hipy_js_厂长资源",
@@ -398,22 +270,8 @@
  			"changeable": 1,
  			"ext": "./json/duboku.json"
  		},
- 		{
- 			"key": "Eighteen",
- 			"name": "Eighteen",
- 			"type": 3,
- 			"api": "csp_Eighteen",
- 			"searchable": 1,
- 			"changeable": 1
- 		},
- 		{
- 			"key": "PTT",
- 			"name": "PTT视频",
- 			"type": 3,
- 			"api": "csp_PTT",
- 			"searchable": 1,
- 			"changeable": 1
- 		},
+ 		//{"key": "Eighteen","name": "Eighteen","type": 3,"api": "csp_Eighteen","searchable": 1,"changeable": 1},
+ 		//{"key": "PTT"，"name": "PTT视频"，"type": 3,"api": "csp_PTT","searchable": 1,"changeable": 1},
  		{
  			"key": "haiwaikan",
  			"name": "海外看",
