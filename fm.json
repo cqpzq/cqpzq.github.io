@@ -10,20 +10,20 @@
  			"changeable": 1,
  			"ext": "./json/douban.json"
  		},
-     {
-      "key": "配置中心",
-      "name": "‍配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
+ 		{
+ 			"key": "配置中心",
+ 			"name": "‍配置中心",
+ 			"type": 3,
+ 			"api": "csp_Config",
+ 			"searchable": 0,
+ 			"changeable": 0,
+ 			"indexs": 0,
+ 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+ 			"style": {
+ 				"type": "rect",
+ 				"ratio": 1.43
+ 			}
+ 		},
  		{
  			"key": "360zy",
  			"name": "360采集",
@@ -110,6 +110,25 @@
  			]
  		},
  		{
+ 			"key": "阿里合集",
+ 			"name": "阿里合集",
+ 			"type": 3,
+ 			"api": "csp_AliShare",
+ 			"searchable": 1,
+ 			"changeable": 0,
+ 			"filterable": 0,
+ 			"indexs": 0,
+ 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+ 			"ext": {
+ 				"token": "file://TV/ali_token.txt",
+ 				"share": "file://TV/阿里集合.json"
+ 			},
+ 			"style": {
+ 				"type": "list"
+ 			},
+ 			"timeout": 30
+ 		},
+ 		{
  			"key": "玩偶",
  			"name": "玩偶",
  			"type": 3,
@@ -178,20 +197,7 @@
  			"changeable": 0,
  			"ext": "影視天下第一$$$test2$$$test2"
  		},
-     {
-      "key": "阿里合集",
-      "name": "阿里合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "share": "file://TV/阿里集合.json"
-      },
+
  		{
  			"key": "AList",
  			"name": "AList",
@@ -201,6 +207,7 @@
  			"changeable": 0,
  			"ext": "./json/alist.json"
  		},
+
  		{
  			"key": "立播弹幕版",
  			"name": "立播",
@@ -209,7 +216,7 @@
  			"searchable": 1,
  			"filterable": 1,
  			"changeable": 1,
-    "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+ 			"jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
  			"ext": {
  				"token": "file://TV/ali_token.txt",
  				"cookie": "file://TV/quark_cookie.txt",
