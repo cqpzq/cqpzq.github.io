@@ -178,6 +178,20 @@
  			"changeable": 0,
  			"ext": "影視天下第一$$$test2$$$test2"
  		},
+     {
+      "key": "阿里合集",
+      "name": "阿里合集",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "jar": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/spiderok.jar",
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
+      },
  		{
  			"key": "AList",
  			"name": "AList",
