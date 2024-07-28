@@ -12,26 +12,6 @@
 			"ext": "https://gh.zflqw.eu.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/tokenm.json"
 		},
 		{
-			"key": "T4-heimuer",
-			"name": "黑木耳(T4)",
-			"type": 4,
-			"api": "https://tang.hz.cz/power/hme?",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "T4-安博",
-			"name": "安博(T4)",
-			"type": 4,
-			"api": "https://tang.hz.cz/power/ub18?",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "cli_gitCafe",
 			"name": "纸条(cli)",
 			"type": 4,
@@ -72,6 +52,26 @@
 				"type": "抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#抖音#动物#山歌#黄梅戏#软件教程#平面设计教学#考公考证#Windows#中国女团#韩国女团#日本女团#磁力#18岁#电影解说#电视剧解说",
 				"cookie": ""
 			}
+		},
+		{
+			"key": "T4-heimuer",
+			"name": "黑木耳(T4)",
+			"type": 4,
+			"api": "https://tang.hz.cz/power/hme?token=c60ea175",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "T4-安博",
+			"name": "安博(T4)",
+			"type": 4,
+			"api": "https://tang.hz.cz/power/ub18?token=c60ea175",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "push_agent",
