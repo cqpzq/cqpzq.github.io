@@ -125,7 +125,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"filterable": 0,
-			"timeout": 60,
+			"timeout": 120,
 			"ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -272,17 +272,6 @@
 			"ext": "./lib/tokenm.json$$$null$$$noproxy$$$1"
 		},
 		{
-			"key": "紙條搜",
-			"name": "紙條搜|网盘",
-			"type": 3,
-			"api": "csp_XiaoZhiTiao",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$proxy$$$1"
-		},
-		{
 			"key": "Xpanpan",
 			"name": "小盘盘|网盘",
 			"type": 3,
@@ -296,6 +285,17 @@
 				"type": "list",
 				"ratio": 1.1
 			}
+		},
+		{
+			"key": "紙條搜",
+			"name": "紙條搜|网盘",
+			"type": 3,
+			"api": "csp_XiaoZhiTiao",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$proxy$$$1"
 		},
 		{
 			"key": "Wogg",
@@ -773,7 +773,6 @@
 			"ext": "./lib/bttt.json",
 			"jar": "./lib/XBPQ.jar"
 		},
-
 		{
 			"key": "haokongbu",
 			"name": "👿好恐怖|磁力|XBPQ",
@@ -836,6 +835,14 @@
 			"changeable": 1,
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout": 60
+		},
+		{
+			"key": "黑木耳",
+			"name": "黑木耳",
+			"type": 1,
+			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1
 		},
 		{
 			"key": "索尼资源",
