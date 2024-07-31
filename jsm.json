@@ -1,6 +1,6 @@
 {
 	//"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
-	"spider": "https://pd.venti.workers.dev/cfdownload/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
+	"spider": "https://git.subnet.workers.dev/cfdownload/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
 	"sites": [{
 			"key": "Youtube",
 			"name": "Youtube",
