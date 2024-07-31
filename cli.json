@@ -3,7 +3,7 @@
 		//{"key": "lf_js_search","name": "豆瓣LF","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "https://gh.zflqw.eu.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/路飞豆瓣.js","indexs": 1,"ext": "https://gh.zflqw.eu.org/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/tokenm.json"},
 		{
 			"key": "lf_js_lfsearch",
-			"name": "搜索 | 路飞[js]",
+			"name": "搜索 | LF",
 			"type": 3,
 			"searchable": 0,
 			"changeable": 1,
