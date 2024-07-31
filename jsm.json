@@ -1,5 +1,6 @@
 {
-	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
+	//"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
+	"spider": "https://dawn-limit-2bbc.boyzonejff.workers.dev/cfdownload/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
 	"sites": [{
 			"key": "Youtube",
 			"name": "Youtube",
