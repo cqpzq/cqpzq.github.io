@@ -1,16 +1,6 @@
 {
 	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
-	"sites": [	
-		{
-			"key": "lf_js_lfsearch",
-			"name": "搜索 | LF",
-			"type": 3,
-			"searchable": 0,
-			"changeable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"api": "https://git.886.be/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/lib/lf_search3_min.js"
-		},
+	"sites": [
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
