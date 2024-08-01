@@ -345,6 +345,19 @@
         {"key":"米搜","name":"🦋米搜┃搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
         {"key":"夸搜","name":"🐌夸搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
         {
+            "key": "盘他",
+            "name": "🍄盘他┃U夸",
+            "type": 3,
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
             "key":"YiSo",
             "name":"😹易搜┃搜索",
             "type":3,
