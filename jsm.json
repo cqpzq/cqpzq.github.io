@@ -291,6 +291,14 @@
 			}
 		},
 		{
+			"key": "TGYunPan115",
+			"name": "TG搜索|115网盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,hao115$$$noproxy$$$1"
+		},
+		{
 			"key": "紙條搜",
 			"name": "紙條搜|网盘",
 			"type": 3,
@@ -473,7 +481,7 @@
 			"type": 3,
 			"api": "csp_TGYunPan",
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,hao115,wenhua1428,yunpanshare,longzbija,Quark_Share_Channel,Q66quark,Aliyundrive_Share_Channel,yunpanpan,kuakeyun$$$noproxy$$$1"
+			"ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$wenhua1428,yunpanshare,longzbija,Quark_Share_Channel,Q66quark,Aliyundrive_Share_Channel,yunpanpan,kuakeyun$$$noproxy$$$1"
 		},
 		{
 			"key": "YunPan",
