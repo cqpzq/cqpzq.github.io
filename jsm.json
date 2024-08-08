@@ -306,7 +306,6 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$guaguale115,hao115$$$noproxy$$$1"
 		},
-		
 		{
 			"key": "TGYunPan阿里",
 			"name": "TG搜索|ali网盘搜索",
@@ -490,6 +489,15 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+		},
+
+		{
+			"key": "TGYunPan",
+			"name": "TG搜索|网盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
 		},
 		{
 			"key": "YunPan",
@@ -791,17 +799,6 @@
 				"播放数组": "迅雷下载</div>&&</div>",
 				"播放列表": "<a&&</a >"
 			}
-		},
-		{
-			"key": "BT天堂",
-			"name": "🌈BT天堂|磁力|XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/bttt.json",
-			"jar": "./lib/XBPQ.jar"
 		},
 		{
 			"key": "haokongbu",
