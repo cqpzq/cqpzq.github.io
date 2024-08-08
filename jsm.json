@@ -1,6 +1,5 @@
 {
-	"spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
-	//"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
+	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
 	"sites": [{
 			"key": "豆瓣",
 			"name": "豆瓣",
