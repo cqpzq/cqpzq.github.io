@@ -523,8 +523,7 @@
 			"filterable": 1,
 			"ext": {
 				"danmu": true
-			},
-			"jar": "./danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+			}
 		},
 		{
 			"key": "文才弹幕",
