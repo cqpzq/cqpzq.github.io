@@ -24,7 +24,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k|4kz|auto",
 "aliproxy":"",
-"aliproxy_url":"",
+"aliproxy_url":"./aliproxy.32.gz;md5=ce4db2a98c559c2516ea2b2d45f6a1cb"
 "proxy":"",
 "danmu":true,
 "quark_danmu":true,
