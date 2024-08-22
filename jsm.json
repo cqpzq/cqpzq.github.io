@@ -292,7 +292,7 @@
 		},
 		{
 			"key": "TGYunPan夸克",
-			"name": "TG搜索|夸克网盘搜索",
+			"name": "TG搜索Local夸克|网盘搜索",
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
@@ -300,7 +300,7 @@
 		},
 		{
 			"key": "TGYunPan115",
-			"name": "TG搜索|115网盘搜索",
+			"name": "TG搜索Local115|网盘搜索",
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
@@ -308,7 +308,7 @@
 		},
 		{
 			"key": "TGYunPan阿里",
-			"name": "TG搜索|ali网盘搜索",
+			"name": "TG搜索Local阿里|网盘搜索",
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
