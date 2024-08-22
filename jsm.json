@@ -294,7 +294,7 @@
 			"key": "TGYunPan夸克",
 			"name": "TG搜索|夸克网盘搜索",
 			"type": 3,
-			"api": "csp_TGYunPan",
+			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://t.me/$$$alyp_1,alyp_TV,alyp_JLP,alyp_Animation,alyp_4K_Movies,Quark_Share_Channel,Quark_Movies,wenhua1428,yunpanshare,qingyunian23,longzbija,yunpanpan,kuakeyun$$$noproxy$$$1"
 		},
@@ -302,7 +302,7 @@
 			"key": "TGYunPan115",
 			"name": "TG搜索|115网盘搜索",
 			"type": 3,
-			"api": "csp_TGYunPan",
+			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://t.me/$$$guaguale115,hao115,Announce115,shares_115,ysxb115,oneonefivewpfx,oneonefivewpfx$$$noproxy$$$1"
 		},
@@ -310,7 +310,7 @@
 			"key": "TGYunPan阿里",
 			"name": "TG搜索|ali网盘搜索",
 			"type": 3,
-			"api": "csp_TGYunPan",
+			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://t.me/$$$shareAliyun,Aliyun_4K_Movies,aliyunys,yunpanpan,ikiviyyp,zaihuayun,Q66Share,Aliyundrive_Share_Channel$$$noproxy$$$1"
 		},
