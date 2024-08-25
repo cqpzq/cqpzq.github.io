@@ -296,7 +296,7 @@
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$alyp_1,alyp_TV,alyp_JLP,WangZhuanZhan,alyp_Animation,alyp_4K_Movies,Quark_Share_Channel,Quark_Movies,wenhua1428,yunpanshare,qingyunian23,longzbija,yunpanpan,kuakeyun$$$noproxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://t.me/$$$alyp_1,alyp_TV,alyp_JLP,WangZhuanZhan,alyp_Animation,alyp_4K_Movies,Quark_Share_Channel,Quark_Movies,wenhua1428,yunpanshare,qingyunian23,longzbija,yunpanpan,kuakeyun$$$proxy$$$1"
 		},
 		{
 			"key": "TGYunPan115",
@@ -304,7 +304,7 @@
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$guaguale115,hao115,Announce115,Channel_Shares_115,ysb115,oneonefivewpfx$$$noproxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://t.me/$$$guaguale115,hao115,Announce115,Channel_Shares_115,ysb115,oneonefivewpfx$$$proxy$$$1"
 		},
 		{
 			"key": "TGYunPan阿里",
@@ -312,7 +312,7 @@
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$shareAliyun,Aliyun_4K_Movies,aliyunys,yunpanpan,ikiviyyp,zaihuayun,Q66Share,Aliyundrive_Share_Channel$$$noproxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://t.me/$$$shareAliyun,Aliyun_4K_Movies,aliyunys,yunpanpan,ikiviyyp,zaihuayun,Q66Share,Aliyundrive_Share_Channel$$$proxy$$$1"
 		},
 		{
 			"key": "紙條搜",
@@ -511,6 +511,15 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+		},
+
+		{
+			"key": "TGYunPan",
+			"name": "TG搜索Local|网盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPanLocal",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
 		},
 		{
 			"key": "YunPan",
@@ -1122,14 +1131,6 @@
 			"name": "異界",
 			"type": 3,
 			"api": "csp_Ysj",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "愛看",
-			"name": "愛看",
-			"type": 3,
-			"api": "./js/ikanbot_open.js",
 			"searchable": 1,
 			"changeable": 0
 		},
