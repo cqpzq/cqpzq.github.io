@@ -314,6 +314,50 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://t.me/$$$shareAliyun,Aliyun_4K_Movies,aliyunys,yunpanpan,ikiviyyp,zaihuayun,Q66Share,Aliyundrive_Share_Channel$$$proxy$$$1"
 		},
+		   {
+      "key": "yyds",
+      "name": "多多影音┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+		  {
+      "key": "夸克至臻",
+      "name": "至臻┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "夸克奥秘",
+      "name": "奥秘┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "夸克云星",
+      "name": "云星┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"
+    },
 		{
 			"key": "紙條搜",
 			"name": "紙條搜|网盘",
