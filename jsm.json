@@ -327,7 +327,7 @@
 		},
 		{
 			"key": "夸克至臻",
-			"name": "至臻┃网盘",
+			"name": "至臻|网盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
@@ -338,7 +338,7 @@
 		},
 		{
 			"key": "夸克奥秘",
-			"name": "奥秘┃网盘",
+			"name": "奥秘|网盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
@@ -349,7 +349,7 @@
 		},
 		{
 			"key": "夸克云星",
-			"name": "云星┃网盘",
+			"name": "云星|网盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
