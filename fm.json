@@ -251,7 +251,26 @@
  			"order_num": 0,
  			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/短剧天堂.js"
  		},
-
+   {
+      "key": "1080",
+      "name": "1080",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.4u4.cn/api.php/app/"
+    },
+    {
+      "key": "新感觉",
+      "name": "新感觉",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.100.147:9891/api.php/app/"
+    },
  		{
  			"key": "賤賤",
  			"name": "賤賤",
