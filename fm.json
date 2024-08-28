@@ -107,6 +107,19 @@
  				"filter": "./json/wogg.json"
  			}
  		},
+    {
+ 			"key": "多多",
+ 			"name": "多多",
+ 			"type": 3,
+ 			"api": "csp_Wogg",
+ 			"searchable": 1,
+ 			"changeable": 0,
+    "ext": "https://tv.yydsys.top/",
+ 			"ext": {
+ 				"token": "影視天下第一",
+ 				"filter": "./json/wogg.json"
+ 			}
+ 		},
  		{
  			"key": "七夜",
  			"name": "七夜",
