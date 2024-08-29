@@ -1,5 +1,5 @@
 {
-	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/jar/pg.jar",
+	"spider": "./pg.jar",
 	"sites": [{
 			"key": "豆瓣",
 			"name": "豆瓣",
@@ -291,30 +291,6 @@
 			}
 		},
 		{
-			"key": "TGYunPan夸克",
-			"name": "TG搜索Local夸克|网盘搜索",
-			"type": 3,
-			"api": "csp_TGYunPanLocal",
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$alyp_1,alyp_TV,alyp_JLP,WangZhuanZhan,alyp_Animation,alyp_4K_Movies,Quark_Share_Channel,Quark_Movies,wenhua1428,yunpanshare,qingyunian23,longzbija,yunpanpan,kuakeyun$$$proxy$$$1"
-		},
-		{
-			"key": "TGYunPan115",
-			"name": "TG搜索Local115|网盘搜索",
-			"type": 3,
-			"api": "csp_TGYunPanLocal",
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$guaguale115,hao115,Announce115,Channel_Shares_115,ysb115,oneonefivewpfx$$$proxy$$$1"
-		},
-		{
-			"key": "TGYunPan阿里",
-			"name": "TG搜索Local阿里|网盘搜索",
-			"type": 3,
-			"api": "csp_TGYunPanLocal",
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://t.me/$$$shareAliyun,Aliyun_4K_Movies,aliyunys,yunpanpan,ikiviyyp,zaihuayun,Q66Share,Aliyundrive_Share_Channel$$$proxy$$$1"
-		},
-		{
 			"key": "yyds",
 			"name": "多多|网盘",
 			"type": 3,
@@ -430,7 +406,7 @@
 			"type": 3,
 			"api": "csp_Wobg",
 			"searchable": 1,
-			"filterable": 1,
+			"filterable": 0,
 			"changeable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"
@@ -555,6 +531,22 @@
 			"filterable": 1,
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+		},
+		{
+			"key": "TGYunPanLocal",
+			"name": "TG搜索Local|网盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPanLocal",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
+		},
+		{
+			"key": "TGYunPan",
+			"name": "TG搜索|网盘搜索",
+			"type": 3,
+			"api": "csp_TGYunPan",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"
 		},
 		{
 			"key": "YunPan",
