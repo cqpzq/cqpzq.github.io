@@ -13,7 +13,7 @@
     },
     {
       "key": "玩偶gg",
-      "name": "玩偶gg",
+      "name": "玩偶哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -105,7 +105,45 @@
         "filter": "./wogg.json"
       }
     },
-
+    {
+      "key": "至臻玩偶",
+      "name": "玩偶 | 至臻",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": https://mihdr.top",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "奥秘玩偶",
+      "name": "玩偶 | 奥秘",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": https://vip.omii.top",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "云星玩偶",
+      "name": "玩偶 | 云星",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": https://4k.4u4.cn$",
+        "filter": "./wogg.json"
+      }
+    },
     {
       "key": "ConfigCenter",
       "name": "配置中心",
