@@ -334,6 +334,17 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"
 		},
+	        {
+			"key": "夸克土豆",
+			"name": "土 豆|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$noproxy$$$1$$$./lib/wogg.json"
+		},
 		{
 			"key": "紙條搜",
 			"name": "紙條搜|网盘",
