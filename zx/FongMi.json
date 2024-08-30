@@ -54,6 +54,59 @@
       }
     },
     {
+      "key": "多多玩偶",
+      "name": "玩偶 | 多多",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "木偶玩偶",
+      "name": "玩偶 | 木偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "http://mogg.top/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "土豆玩偶",
+      "name": "玩偶 | 土豆",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://tudou.lvdoui.top/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "表哥玩偶",
+      "name": "玩偶 | 表哥",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "http://wobgg.run-us-west2.goorm.io/",
+        "filter": "./wogg.json"
+      }
+    },
+
+    {
       "key": "ConfigCenter",
       "name": "配置中心",
       "type": 3,
