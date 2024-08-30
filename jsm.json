@@ -740,51 +740,51 @@
 			"ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
 		},
 
-		    {
-      "key": "baipiaoys",
-      "name": "白嫖影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XBPQ/白嫖.json",
-      "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
-		    {
-      "key": "csp_XBPQ_侠客",
-      "name": "侠客影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XBPQ/侠客.json",
-      "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
-		    {
-      "key": "csp_XBPQ_茶杯狐",
-      "name": "茶杯聚合",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XBPQ/茶杯.json",
-      "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
-		    {
-      "key": "csp_XBPQ_奇侠",
-      "name": "奇侠影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XBPQ/奇侠.json",
-      "jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
+		{
+			"key": "baipiaoys",
+			"name": "白嫖影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"changeable": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/白嫖.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
+		{
+			"key": "csp_XBPQ_侠客",
+			"name": "侠客影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/侠客.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
+		{
+			"key": "csp_XBPQ_茶杯狐",
+			"name": "茶杯聚合",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/茶杯.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
+		{
+			"key": "csp_XBPQ_奇侠",
+			"name": "奇侠影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/奇侠.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
 		{
 			"key": "新6V",
 			"name": "新6V|网盘",
