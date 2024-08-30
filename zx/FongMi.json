@@ -54,7 +54,7 @@
 		},
 		{
 			"key": "多多玩偶",
-			"name": "玩偶 | 多多",
+			"name": "多多",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -67,7 +67,7 @@
 		},
 		{
 			"key": "木偶玩偶",
-			"name": "玩偶 | 木偶",
+			"name": "木偶",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -80,7 +80,7 @@
 		},
 		{
 			"key": "土豆玩偶",
-			"name": "玩偶 | 土豆",
+			"name": "土豆",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -93,7 +93,7 @@
 		},
 		{
 			"key": "表哥玩偶",
-			"name": "玩偶 | 表哥",
+			"name": "表哥",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -106,7 +106,7 @@
 		},
 		{
 			"key": "至臻玩偶",
-			"name": "玩偶 | 至臻",
+			"name": "至臻",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -119,7 +119,7 @@
 		},
 		{
 			"key": "奥秘玩偶",
-			"name": "玩偶 | 奥秘",
+			"name": "奥秘",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -132,7 +132,7 @@
 		},
 		{
 			"key": "云星玩偶",
-			"name": "玩偶 | 云星",
+			"name": "云星",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
@@ -145,7 +145,7 @@
 		},
 		{
 			"key": "小米玩偶",
-			"name": "玩偶 | 小米",
+			"name": "小米",
 			"type": 3,
 			"api": "csp_kongbai",
 			"searchable": 1,
