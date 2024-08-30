@@ -753,6 +753,18 @@
 			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{
+			"key": "奇优影院",
+			"name": "奇优影院.json",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"changeable": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/奇优影院.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
+		{
 			"key": "csp_XBPQ_侠客",
 			"name": "侠客影视",
 			"type": 3,
