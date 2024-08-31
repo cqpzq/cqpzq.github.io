@@ -811,7 +811,7 @@
 		},
 		{
 			"key": "csp_XBPQ_茶杯狐",
-			"name": "茶杯|影视",
+			"name": "茶杯┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -822,7 +822,7 @@
 		},
 		{
 			"key": "csp_XBPQ_奇侠",
-			"name": "奇侠|影视",
+			"name": "奇侠┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
