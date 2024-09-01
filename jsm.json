@@ -821,6 +821,17 @@
 			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{
+			"key": "csp_XBPQ_石榴",
+			"name": "石榴┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/XBPQ/石榴.json",
+			"jar": "./lib/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+		},
+		{
 			"key": "csp_XBPQ_奇侠",
 			"name": "奇侠┃影视",
 			"type": 3,
