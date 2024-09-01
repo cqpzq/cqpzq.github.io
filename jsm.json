@@ -853,16 +853,6 @@
 			}
 		},
 		{
-			"key": "荐片cli",
-			"name": "荐片(cli)|磁力",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_JP",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-
-		{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
