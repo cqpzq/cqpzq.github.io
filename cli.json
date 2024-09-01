@@ -105,7 +105,7 @@
 		},
 	{
 			"key": "FOX资源",
-			"name": "我免费我光荣",
+			"name": "FOX资源",
 			"type": 1,
 			"api": "https://api.foxzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -250,7 +250,7 @@
 		},
 		{
 			"key": "极速蓝光",
-			"name": "极速蓝光",
+			"name": "极速资源",
 			"type": 1,
 			"api": "http://hs.zhuijuba.vip/api.php/provide/vod/",
 			"searchable": 1,
