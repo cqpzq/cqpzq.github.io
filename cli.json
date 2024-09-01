@@ -85,7 +85,7 @@
 		},
     		{
 			"key": "php_huaweiba",
-			"name": "华为",
+			"name": "华为(T4)",
 			"type": 4,
 			"api": "https://t4.doube.eu.org/app/index.php?site=webhuaweiba",
 			"searchable": 1,
@@ -103,20 +103,86 @@
 			"filterable": 0,
 			"changeable": 0
 		},
-
+		{
+			"key": "360采集",
+			"name": "360采集",
+			"type": 1,
+			"changeable": 0,
+			"api": "https://360zy.com/api.php/provide/vod",
+			"playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+			"categories": [
+				"爽文短剧",
+				"国产剧",
+				"国产动漫",
+				"动画电影",
+				"网络电影",
+				"动作片",
+				"喜剧片",
+				"灾难片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"港台剧",
+				"日韩剧",
+				"欧美剧",
+				"惊悚片",
+				"犯罪片",
+				"冒险片",
+				"悬疑片",
+				"武侠片",
+				"奇幻片",
+				"国产综艺"
+			]
+		},
+		{
+			"key": "csp_xml_爱坤",
+			"name": "爱坤资源",
+			"type": 1,
+			"api": "https://ikunzyapi.com/api.php/provide/vod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playurl": "json:https://www.ikdmjx.com/?url=",
+			"categories": [
+				"短剧",
+				"邵氏电影",
+				"爽文短剧",
+				"动作片",
+				"国产剧",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动漫电影",
+				"欧美剧",
+				"港澳剧",
+				"韩剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"泰剧",
+				"体育",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
 		{
 			"key": "量子资源",
 			"name": "量子资源",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "神速资源",
-			"name": "神速资源",
-			"type": 1,
-			"api": "https://api.sszyapi.com/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -127,22 +193,6 @@
 			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
-		},
-		{
-			"key": "想看资源",
-			"name": "想看资源",
-			"type": 1,
-			"api": "https://m3u8.xiangkanapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "速更资源",
-			"name": "速更资源",
-			"type": 1,
-			"api": "https://sugengzy.cn/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
 		},
 		{
 			"key": "飞速资源",
@@ -161,52 +211,12 @@
 			"quickSearch": 1
 		},
 		{
-			"key": "新浪资源",
-			"name": "新浪资源",
-			"type": 1,
-			"api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "鱼乐资源",
-			"name": "鱼乐资源",
-			"type": 1,
-			"api": "https://api.ylzy1.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "韩剧资源",
-			"name": "韩剧资源",
-			"type": 1,
-			"api": "http://www.hanjuzy.com/inc/apijson_vod.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "快播资源",
-			"name": "快播资源",
-			"type": 1,
-			"api": "http://www.kuaibozy.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
 			"key": "八戒资源",
 			"name": "八戒资源",
 			"type": 1,
 			"api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
 			"searchable": 0,
 			"quickSearch": 0
-		},
-		{
-			"key": "百度资源",
-			"name": "百度资源",
-			"type": 1,
-			"api": "https://api.apibdzy.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
 		},
 		{
 			"key": "天空资源",
@@ -226,180 +236,10 @@
 			"quickSearch": 1
 		},
 		{
-			"key": "南国影源",
-			"name": "南国影源",
-			"type": 1,
-			"api": "http://api.nguonphim.tv/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "淘剧鸭",
-			"name": "淘剧鸭",
-			"type": 1,
-			"api": "https://so2.cc/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "极速蓝光",
-			"name": "极速资源",
-			"type": 1,
-			"api": "http://hs.zhuijuba.vip/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
 			"key": "U酷资源",
 			"name": "U酷资源",
 			"type": 1,
 			"api": "https://api.ukuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "开放云(X5)",
-			"name": "开放云(X5)",
-			"type": 1,
-			"api": "https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/?ac=list",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "唐人资源",
-			"name": "唐人资源",
-			"type": 1,
-			"api": "https://tangrenzyz.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "789盘",
-			"name": "789盘",
-			"type": 1,
-			"api": "https://www.rrvipw.com/api.php/provide/vod/from/789pan/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "奈菲迷",
-			"name": "奈菲迷",
-			"type": 1,
-			"api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "皮荼熊TV",
-			"name": "皮荼熊TV",
-			"type": 1,
-			"api": "https://www.psinu.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "影世界",
-			"name": "影世界",
-			"type": 1,
-			"api": "https://video.yingworld.vip/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"电影",
-				"连续剧",
-				"综艺",
-				"动漫"
-			]
-		},
-		{
-			"key": "饭后电影",
-			"name": "饭后电影",
-			"type": 1,
-			"api": "http://yinliub.cn/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "考拉TV",
-			"name": "考拉TV",
-			"type": 1,
-			"api": "https://ikaola.tv/api.php/provide/vod/",
-			"playUrl": "https://ikaola.tv/vwnet/dplayer/?url=",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "段友影视",
-			"name": "段友影视",
-			"type": 1,
-			"api": "http://shangjihuoke.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "思古影院",
-			"name": "思古影院",
-			"type": 1,
-			"api": "https://www.siguyy.net/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "每天看看",
-			"name": "每天看看",
-			"type": 1,
-			"api": "http://47.113.126.237:1234/api.php/provide/vod/",
-			"playUrl": "parse:parwix1",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "一拳动漫",
-			"name": "一拳动漫",
-			"type": 1,
-			"api": "http://47.97.68.224/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "畅视影视",
-			"name": "畅视影视",
-			"type": 1,
-			"api": "http://app.reboju.net/api.php/provide/vod/",
-			"playUrl": "parse:parwix1",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "U酷资源",
-			"name": "U酷资源",
-			"type": 1,
-			"api": "https://api.ukuapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "考拉TV",
-			"name": "考拉TV",
-			"type": 1,
-			"api": "https://ikaola.tv/api.php/provide/vod/",
-			"playUrl": "https://ikaola.tv/vwnet/dplayer/?url=",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "一拳动漫",
-			"name": "一拳动漫",
-			"type": 1,
-			"api": "http://47.97.68.224/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "乐活影视",
-			"name": "乐活影视",
-			"type": 1,
-			"api": "https://lehootv.com/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
