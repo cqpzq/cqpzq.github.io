@@ -1,5 +1,6 @@
 {
-	"spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+	//"spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+	"spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 	"wallpaper": "https://api.likepoems.com/img/bing",
 	"sites": [{
 			"key": "豆瓣",
@@ -996,7 +997,7 @@
 				"cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
 			},
-			"jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/xyq/danmu.jar"
+			"jar": "./danmu.jar"
 		}
 	],
 	"parses": [{
