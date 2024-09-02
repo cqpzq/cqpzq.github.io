@@ -157,6 +157,19 @@
 			}
 		},
 		{
+			"key": "小米玩偶",
+			"name": "六趣",
+			"type": 3,
+			"api": "csp_kongbai",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"commonConfig": "./peizhi.json",
+				"siteUrl": "https://cms.715d.com",
+				"filter": "./wogg.json"
+			}
+		},
+		{
 			"key": "ConfigCenter",
 			"name": "配置中心",
 			"type": 3,
