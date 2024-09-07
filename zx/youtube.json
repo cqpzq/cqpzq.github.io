@@ -1,12 +1,24 @@
 {
   "class": [
     {
+      "type_name": "新闻",
+      "type_id": "新闻"
+    },
+    {
       "type_name": "自驾游",
       "type_id": "自驾游"
     },
     {
       "type_name": "美食",
       "type_id": "美食"
+    },
+    {
+      "type_name": "4k",
+      "type_id": "4k"
+    },
+    {
+      "type_name": "演示片",
+      "type_id": "演示片"
     },
     {
       "type_name": "徐云",
