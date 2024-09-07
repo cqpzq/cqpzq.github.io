@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+	"spider": "./custom_spider.jar;md5;82332949b698787b577e8797a8fda09f",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣荐片(js)",
@@ -153,19 +153,6 @@
 			"ext": {
 				"commonConfig": "./peizhi.json",
 				"siteUrl": "https://mihdr.top/",
-				"filter": "./wogg.json"
-			}
-		},
-		{
-			"key": "六趣玩偶",
-			"name": "六趣",
-			"type": 3,
-			"api": "csp_kongbai",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": {
-				"commonConfig": "./peizhi.json",
-				"siteUrl": "https://cms.715d.com",
 				"filter": "./wogg.json"
 			}
 		},
