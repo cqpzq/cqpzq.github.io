@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar;md5;82332949b698787b577e8797a8fda09f",
+	"spider": "./custom_spider.jar;md5;b72a64947f969d386752c31ebc85f2d9",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣荐片(js)",
