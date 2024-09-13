@@ -317,6 +317,56 @@
 			}
 		},
 		{
+			"key": "dr_LIBVIO[优].js",
+			"name": "LIBVIO",
+			"type": 3,
+			"api": "./js/lib/drpy2.min.js",
+			"searchable": 2,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./js/LIBVIO[优].js"
+		},
+		{
+			"key": "dr_低端.js",
+			"name": "低端",
+			"type": 3,
+			"api": "./js/lib/drpy2.min.js",
+			"searchable": 2,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./js/低端.js"
+		},
+		{
+			"key": "dr_在线之家.js",
+			"name": "在线之家",
+			"type": 3,
+			"api": "./js/lib/drpy2.min.js",
+			"searchable": 2,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./js/在线之家.js"
+		},
+		{
+			"key": "dr_南瓜影视[优].js",
+			"name": "南瓜影视",
+			"type": 3,
+			"api": "./js/lib/drpy2.min.js",
+			"searchable": 2,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./js/南瓜影视[优].js"
+		},
+		{
+			"key": "dr_黑木耳资源[资].js",
+			"name": "黑木耳资源",
+			"type": 3,
+			"api": "./js/lib/drpy2.min.js",
+			"searchable": 2,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./js/黑木耳资源[资].js"
+		},
+		{
 			"key": "push_agent",
 			"name": "推送",
 			"type": 3,
