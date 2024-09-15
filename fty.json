@@ -24,13 +24,13 @@
 			"danMu": "弹"
 		}
 	}, {
-		"key": "YGP",
-		"name": "🚀叨观荐影┃新片",
-		"type": 3,
-		"api": "csp_YGP",
-		"searchable": 0,
-		"quickSearch": 0,
-		"changeable": 0
+		"key": "cli_gitCafe",
+		"name": "纸条(cli)",
+		"type": 4,
+		"api": "http://home.jundie.top:9520/spider/cli_gitCafe?sort=原画,蓝光,超清",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
 	}, {
 		"key": "360zy",
 		"name": "🐭360|采集",
