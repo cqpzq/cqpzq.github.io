@@ -57,7 +57,7 @@
 			"key": "T4-heimuer",
 			"name": "黑木耳(T4)",
 			"type": 4,
-			"api": "https://tang.hz.cz/power/hme?token=c60ea175",
+			"api": "https://tang.hz.cz/power/hme?token=8cb2d538",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -67,7 +67,7 @@
 			"key": "T4-欧乐",
 			"name": "欧乐(T4)",
 			"type": 4,
-			"api": "https://tang.hz.cz/power/olelive?token=e04750e2",
+			"api": "https://tang.hz.cz/power/olelive?token=8cb2d538",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -77,13 +77,13 @@
 			"key": "T4-安博",
 			"name": "安博(T4)",
 			"type": 4,
-			"api": "https://tang.hz.cz/power/ub18?token=c60ea175",
+			"api": "https://tang.hz.cz/power/ub18?token=8cb2d538",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0
 		},
-    		{
+		{
 			"key": "php_huaweiba",
 			"name": "华为(T4)",
 			"type": 4,
@@ -136,17 +136,17 @@
 				"国产综艺"
 			]
 		},
- 		{
- 			"key": "hipy_js_南瓜影视[优]",
- 			"name": "南瓜影视(js)",
- 			"type": 3,
- 			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
- 			"searchable": 1,
- 			"quickSearch": 1,
- 			"filterable": 1,
- 			"order_num": 0,
- 			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/南瓜影视[优].js"
- 		},
+		{
+			"key": "hipy_js_南瓜影视[优]",
+			"name": "南瓜影视(js)",
+			"type": 3,
+			"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/cqpzq/drpy/main/drpy_js/南瓜影视[优].js"
+		},
 		{
 			"key": "量子资源",
 			"name": "量子资源",
@@ -220,7 +220,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-	
+
 		{
 			"key": "39影视",
 			"name": "39影视",
@@ -229,7 +229,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-	
+
 		{
 			"key": "push_agent",
 			"name": "推送(cli)",
