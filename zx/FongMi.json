@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "玩偶gg",
-			"name": "玩偶哥哥",
+			"name": "玩偶gg",
 			"type": 3,
 			"api": "csp_Wogg",
 			"searchable": 1,
@@ -48,7 +48,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./peizhi.json",
-				"siteUrl": "https://duopan.fun",
+				"siteUrl": "https://labipan.com/",
 				"filter": "./wogg.json"
 			}
 		},
@@ -225,6 +225,7 @@
 				"ratio": 1.433
 			},
 			"ext": {
+				"commonConfig": "./peizhi.json",
 				"json": "./youtube.json",
 				"cookie": ""
 			}
