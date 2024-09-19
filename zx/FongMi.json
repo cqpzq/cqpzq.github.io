@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.duckcc.com/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;a8f565dd197fada6abe821681446d1b6",
+	"spider": "https://gh.duckcc.com/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣荐片(js)",
@@ -87,7 +87,7 @@
 			"changeable": 0,
 			"ext": {
 				"commonConfig": "./peizhi.json",
-				"siteUrl": "https://tudou.lvdoui.top/",
+				"siteUrl": "https://yunpan.yunpay.cc/",
 				"filter": "./wogg.json"
 			}
 		},
@@ -300,6 +300,34 @@
 			"switchable": 0,
 			"ext": {
 				"channelUsername": "guaguale115",
+				"commonConfig": "./peizhi.json"
+			}
+		},
+		{
+			"key": "tg服务器搜",
+			"name": "tg服务器搜",
+			"type": 3,
+			"api": "csp_TgYunPan",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "你的服务器地址端口",
+				"channelUsername": "yunpanshare",
+				"commonConfig": "./peizhi.json"
+			}
+		},
+		{
+			"key": "tg服务器搜1",
+			"name": "tg服务器搜1",
+			"type": 3,
+			"api": "csp_TgYunPan",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": {
+				"siteUrl": "你的服务器地址端口",
+				"channelUsername": "yunpanshare",
 				"commonConfig": "./peizhi.json"
 			}
 		},
