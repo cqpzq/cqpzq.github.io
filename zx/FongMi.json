@@ -1,5 +1,5 @@
 {
-	"spider": "https://gh.duckcc.com/https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
+	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣荐片(js)",
