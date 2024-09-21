@@ -202,7 +202,7 @@
 			"filterable": 0,
 			"switchable": 0,
 			"ext": {
-				"cookie": "",
+				"cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
 				"commonConfig": "./peizhi.json"
 			}
 		},
