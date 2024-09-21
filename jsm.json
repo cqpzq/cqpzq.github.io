@@ -292,7 +292,7 @@
 		},
 		{
 			"key": "tudou1",
-			"name": "土豆|网盘",
+			"name": "土豆",
 			"type": 3,
 			"api": "csp_Wobg",
 			"quickSearch": 1,
@@ -312,17 +312,7 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://tv.yydsys.cc/$$$noproxy$$$1$$$./lib/wogg.json"
 		},
-		{
-			"key": "夸克至臻",
-			"name": "至臻|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
-		},
+	
 		{
 			"key": "夸克奥秘",
 			"name": "奥秘|网盘",
@@ -420,7 +410,7 @@
 			"filterable": 0,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"
+			"ext": "./lib/tokenm.json$$$https://yunpan.yunpay.cc/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"
 		},
 		{
 			"key": "小米网盘",
