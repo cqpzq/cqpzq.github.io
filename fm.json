@@ -10,39 +10,39 @@
  			"changeable": 1,
  			"ext": "./json/douban.json"
  		},
-   {
-      "key": "360采集",
-      "name": "360采集",
-      "type": 1,
-      "changeable": 0,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
-      "categories": [
-        "爽文短剧",
-        "国产剧",
-        "国产动漫",
-        "动画电影",
-        "网络电影",
-        "动作片",
-        "喜剧片",
-        "灾难片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "武侠片",
-        "奇幻片",
-        "国产综艺"
-      ]
-    },
+ 		{
+ 			"key": "360采集",
+ 			"name": "360采集",
+ 			"type": 1,
+ 			"changeable": 0,
+ 			"api": "https://360zy.com/api.php/provide/vod",
+ 			"playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+ 			"categories": [
+ 				"爽文短剧",
+ 				"国产剧",
+ 				"国产动漫",
+ 				"动画电影",
+ 				"网络电影",
+ 				"动作片",
+ 				"喜剧片",
+ 				"灾难片",
+ 				"爱情片",
+ 				"科幻片",
+ 				"恐怖片",
+ 				"剧情片",
+ 				"战争片",
+ 				"港台剧",
+ 				"日韩剧",
+ 				"欧美剧",
+ 				"惊悚片",
+ 				"犯罪片",
+ 				"冒险片",
+ 				"悬疑片",
+ 				"武侠片",
+ 				"奇幻片",
+ 				"国产综艺"
+ 			]
+ 		},
  		{
  			"key": "玩偶",
  			"name": "玩偶",
@@ -69,8 +69,8 @@
  			"type": 3,
  			"api": "csp_YiSo",
  			"searchable": 1,
-    "ext": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
- 			"changeable": 0
+ 			"changeable": 0,
+ 			"ext": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
  		},
  		{
  			"key": "雲搜",
@@ -220,17 +220,17 @@
  			"filterable": 1,
  			"ext": "http://43.248.100.147:9891/api.php/app/"
  		},
-    {
-      "key": "君君",
-      "name": "君君",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
+ 		{
+ 			"key": "君君",
+ 			"name": "君君",
+ 			"type": 3,
+ 			"changeable": 0,
+ 			"api": "csp_AppYsV2",
+ 			"searchable": 1,
+ 			"quickSearch": 1,
+ 			"filterable": 1,
+ 			"ext": "http://122.228.85.203:1000/api.php/app/"
+ 		},
  		{
  			"key": "賤賤",
  			"name": "賤賤",
@@ -249,8 +249,23 @@
  			"changeable": 1,
  			"ext": "./json/duboku.json"
  		},
- 		//{"key": "Eighteen","name": "Eighteen","type": 3,"api": "csp_Eighteen","searchable": 1,"changeable": 1},
- 		//{"key": "PTT"，"name": "PTT视频"，"type": 3,"api": "csp_PTT","searchable": 1,"changeable": 1},
+ 		{
+ 			"key": "Eighteen",
+ 			"name": "Eighteen",
+ 			"type": 3,
+ 			"api": "csp_Eighteen",
+ 			"searchable": 1,
+ 			"changeable": 1
+ 		},
+ 		{
+ 			"key": "PTT",
+ 			"name": "PTT",
+ 			"type": 3,
+ 			"api": "csp_PTT",
+ 			"searchable": 1,
+ 			"changeable": 1
+ 		},
+
  		{
  			"key": "haiwaikan",
  			"name": "海外看",
