@@ -5,12 +5,25 @@
 网盘集合.json 支持根据share_index名进行聚合（不同网盘也可以随意聚合）以减少分类数目  分类更加清晰  可以参考网盘集合.json写法
 
 
-
-
 今日更新
+1.修复tg搜遗留bug
+2.优化tg服务器搜索速度（需要部署文件）
+
+今日大更新
+1.115原盘iso起播加速到秒级（测试软件：vlc手机版、vlc pc版、当贝1.4.9  有默认播放器设置的 需要先清除默认播放器设置 然后选择vlc  vlc 最佳 当贝不是太稳定、kodi播放似乎有点问题）
+
+
+
+1.youtube 支持登陆 解锁节点不支持播放（pc网页登陆油管后 找一个请求 获取请求头中x-Goog-visitor-id的值 填到youtube配置cookie）
+2.修复youtube 之前遗留bug
+
+
+
+
 1.修复youtube推送
 2.tg搜支持一次配置多个频道（参考FongMi.json）
 3.修复易搜（需配置cookie）
+4.更新singbox 下载cdn为https://ghp.ci
 
 
 
