@@ -1,5 +1,5 @@
 {
-	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;5160a2582ee4e4ae9d34791e92d9ed6f",
+	"spider": "https://down.npee.cn/?https://raw.githubusercontent.com/cqpzq/cqpzq.github.io/main/zx/custom_spider.jar;md5;787dd881b2358ecbcbd6ebea33cbe1ea",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣荐片(js)",
